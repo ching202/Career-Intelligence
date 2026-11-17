@@ -1,0 +1,6 @@
+﻿job_id,title,company,location,work_mode,experience_level,salary_min,salary_max,salary_currency,salary_period,skills,posted_date,data_source,annual_min_usd,annual_max_usd,salary_mid_usd,salary_status
+VALID-1,Backend Developer,Fictional Fixture Co,"Seattle, WA",Remote,Entry,80000,100000,USD,annual,Python;SQL,2026-11-01,Synthetic validation fixture,80000.0,100000.0,90000.0,Included (USD)
+NO-PAY,Frontend Developer,Fictional Fixture Co,"Seattle, WA",Hybrid,Mid,,,USD,annual,JavaScript;TypeScript,2026-11-02,Synthetic validation fixture,,,,Missing salary
+BAD-DATE,Software Engineer,Fictional Fixture Co,"Austin, TX",On-site,Senior,100000,120000,USD,annual,Java,,Synthetic validation fixture,100000.0,120000.0,110000.0,Included (USD)
+NON-USD,Platform Engineer,Fictional Fixture Co,"Toronto, ON",Remote,Mid,100000,120000,CAD,annual,Go;Python,2026-11-04,Synthetic validation fixture,,,,Unsupported currency
+BAD-RANGE,Data Developer,Fictional Fixture Co,"Chicago, IL",Hybrid,Mid,100000,80000,USD,annual,Python;SQL,2026-11-05,Synthetic validation fixture,,,,Invalid salary

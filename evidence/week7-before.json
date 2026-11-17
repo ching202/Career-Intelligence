@@ -1,0 +1,8 @@
+{
+  "check": "Sample reproduction before LF policy",
+  "matches": false,
+  "checked_out_crlf_lines": 301,
+  "generated_crlf_lines": 0,
+  "checked_out_sha256": "fcf4d63071054aa39df14ab28c2de42bc4f71c20a37993a57c203e0772e05f42",
+  "generated_sha256": "76c7657799950995f623a75f1b166f1773ccd6de11bf6fab80af340a8f0a300d"
+}

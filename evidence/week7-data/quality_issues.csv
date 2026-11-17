@@ -1,0 +1,7 @@
+csv_record,job_id,issue,action
+6,BAD-ID,"Missing job_id, title, or location",Row dropped
+3,VALID-1,Duplicate job_id,Row dropped; first valid identity kept
+8,BAD-RANGE,Invalid salary,Excluded from salary statistics; job retained
+4,NO-PAY,Missing salary,Excluded from salary statistics; job retained
+7,NON-USD,Unsupported currency,Excluded from salary statistics; job retained
+5,BAD-DATE,Missing or invalid posted_date,Excluded from date chart

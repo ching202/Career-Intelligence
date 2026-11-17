@@ -58,7 +58,7 @@ python3.12 -m venv .venv
 
 On macOS/Linux, substitute `.venv/bin/python`. `verify.py` saves actual console output, JUnit results, coverage, package versions, timestamps, and file hashes under `evidence/local-runs/`. It exits unsuccessfully if any check fails and never overwrites an existing evidence directory.
 
-The delivered verification result and its limits are in [evidence/README.md](evidence/README.md). Automated checks use real Streamlit `AppTest` executions. Visual browser inspection and a Windows installation test remain separate manual checks in [TEST_PLAN.md](docs/TEST_PLAN.md). A GitHub Actions workflow is included; a remote CI run is not claimed.
+The initial verification result and its limits are in [evidence/README.md](evidence/README.md). The [Week 7 validation report](docs/WEEK7_VALIDATION.md) records the subsequent Windows verification, validation examples, and source publication. Automated checks use real Streamlit `AppTest` executions. Visual browser inspection and the Windows batch launcher remain separate manual checks in [TEST_PLAN.md](docs/TEST_PLAN.md). A GitHub Actions workflow is included; a remote CI run is not claimed.
 
 ## Data and calculations
 
@@ -92,7 +92,7 @@ Use [weekly update templates](docs/weekly_updates/README.md) to record the work 
 
 ## GitHub and development
 
-The repository is named **Career-Intelligence**. Remote publication requires authenticated GitHub access. See [GITHUB_SETUP.md](docs/GITHUB_SETUP.md) for restoring the supplied real Git history and publishing it. Never upload the ZIP as the only repository file; GitHub should show `app.py`, `README.md`, `data/`, and the other project files at the top level.
+Source is published at [ching202/Career-Intelligence](https://github.com/ching202/Career-Intelligence). The main branch contains the initial dashboard; the [Week 7 branch](https://github.com/ching202/Career-Intelligence/tree/week7-data-validation) adds validation evidence and a line-ending fix. See [PUBLICATION.md](docs/PUBLICATION.md) for dates and Git-history provenance. [GITHUB_SETUP.md](docs/GITHUB_SETUP.md) preserves the original package's publishing instructions. Never upload the ZIP as the only repository file; GitHub should show `app.py`, `README.md`, `data/`, and the other project files at the top level.
 
 Use small, meaningful commits for future changes, run the affected tests, and add evidence when a feature is verified. See [ARCHITECTURE.md](docs/ARCHITECTURE.md) and [CONTRIBUTING.md](CONTRIBUTING.md).
 
