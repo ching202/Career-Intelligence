@@ -1,0 +1,18 @@
+[project]
+name = "career-intelligence"
+version = "1.0.0"
+description = "A transparent, local-first software developer job-data dashboard."
+requires-python = ">=3.11,<3.14"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-ra"
+
+[tool.coverage.run]
+source = ["career_intelligence"]
+branch = true
+
+[tool.coverage.report]
+show_missing = true
+precision = 1

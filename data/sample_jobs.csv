@@ -1,0 +1,301 @@
+job_id,title,company,location,work_mode,experience_level,salary_min,salary_max,salary_currency,salary_period,skills,posted_date,data_source
+SAMPLE-0001,Frontend Developer,Fictional Studio 04,"Washington, DC",Hybrid,Mid,,,CAD,hourly,CSS;JavaScript;React;TypeScript,2026-10-08,Synthetic sample; not real vacancies
+SAMPLE-0002,Applications Developer,Fictional Studio 03,"Austin, TX",Hybrid,Lead,177000.0,187000.0,USD,annual,.NET;Azure;C#;Docker;SQL,2026-10-11,Synthetic sample; not real vacancies
+SAMPLE-0003,Mobile Developer,Fictional Studio 09,"Rockville, MD",On-site,Entry,88000.0,106000.0,USD,annual,Git;Java;Kotlin,2026-09-10,Synthetic sample; not real vacancies
+SAMPLE-0004,Frontend Developer,Fictional Studio 13,"Chicago, IL",On-site,Mid,109000.0,140000.0,USD,annual,CSS;JavaScript;React;TypeScript,2026-09-12,Synthetic sample; not real vacancies
+SAMPLE-0005,Backend Developer,Fictional Studio 14,"Atlanta, GA",Remote,Entry,66000.0,89000.0,USD,annual,Docker;FastAPI;Python;SQL,2026-10-17,Synthetic sample; not real vacancies
+SAMPLE-0006,iOS Developer,Fictional Studio 16,"Rockville, MD",Remote,Mid,116000.0,133000.0,USD,annual,Git;Swift,2026-09-29,Synthetic sample; not real vacancies
+SAMPLE-0007,iOS Developer,Fictional Studio 20,"Rockville, MD",Remote,Mid,91000.0,127000.0,USD,annual,Git;Swift,2026-09-28,Synthetic sample; not real vacancies
+SAMPLE-0008,Applications Developer,Fictional Studio 26,"Boston, MA",Hybrid,Internship,27.4,35.58,USD,hourly,.NET;Azure;C#;Git;SQL,2026-10-07,Synthetic sample; not real vacancies
+SAMPLE-0009,Full Stack Developer,Fictional Studio 17,"Washington, DC",On-site,Senior,155000.0,180000.0,USD,annual,Docker;JavaScript;Node.js;SQL;TypeScript,2026-09-25,Synthetic sample; not real vacancies
+SAMPLE-0010,Frontend Developer,Fictional Studio 26,"Atlanta, GA",On-site,Mid,110000.0,137000.0,USD,annual,CSS;Docker;JavaScript;React;TypeScript,2026-09-04,Synthetic sample; not real vacancies
+SAMPLE-0011,Data Software Engineer,Fictional Studio 06,"San Francisco, CA",Remote,Entry,70000.0,94000.0,USD,annual,AWS;Git;Pandas;Python;SQL,2026-10-29,Synthetic sample; not real vacancies
+SAMPLE-0012,Frontend Developer,Fictional Studio 30,"Austin, TX",Hybrid,Mid,,,USD,annual,CSS;Git;JavaScript;React;TypeScript,2026-09-24,Synthetic sample; not real vacancies
+SAMPLE-0013,Frontend Developer,Fictional Studio 28,Remote - US,Remote,Entry,85000.0,116000.0,USD,annual,CSS;JavaScript;React;TypeScript,2026-09-24,Synthetic sample; not real vacancies
+SAMPLE-0014,Platform Engineer,Fictional Studio 24,Remote - US,Remote,Senior,129000.0,147000.0,USD,annual,Go;Kubernetes;Linux;Python;SQL,2026-09-23,Synthetic sample; not real vacancies
+SAMPLE-0015,Data Software Engineer,Fictional Studio 23,"San Francisco, CA",Hybrid,Mid,46.63,61.54,USD,hourly,AWS;Pandas;Python;SQL,2026-09-26,Synthetic sample; not real vacancies
+SAMPLE-0016,Backend Developer,Fictional Studio 14,"Austin, TX",On-site,Senior,148000.0,171000.0,USD,annual,Docker;FastAPI;Python;SQL,2026-09-28,Synthetic sample; not real vacancies
+SAMPLE-0017,Frontend Developer,Fictional Studio 28,"Boston, MA",On-site,Mid,97000.0,119000.0,USD,annual,CSS;JavaScript;React;TypeScript,2026-09-06,Synthetic sample; not real vacancies
+SAMPLE-0018,Applications Developer,Fictional Studio 02,Remote - US,Remote,Entry,61000.0,95000.0,USD,annual,.NET;Azure;C#;SQL,2026-09-06,Synthetic sample; not real vacancies
+SAMPLE-0019,iOS Developer,Fictional Studio 26,"San Francisco, CA",Hybrid,Mid,105000.0,121000.0,USD,annual,Git;Swift,2026-10-30,Synthetic sample; not real vacancies
+SAMPLE-0020,Systems Developer,Fictional Studio 18,"Rockville, MD",On-site,Mid,9500.0,11333.33,USD,monthly,C;C++;Linux;Rust,2026-10-05,Synthetic sample; not real vacancies
+SAMPLE-0021,Mobile Developer,Fictional Studio 19,"Rockville, MD",Remote,Entry,79000.0,108000.0,USD,annual,Git;Java;Kotlin,2026-09-25,Synthetic sample; not real vacancies
+SAMPLE-0022,Data Software Engineer,Fictional Studio 30,"Boston, MA",Hybrid,Entry,42.79,56.73,USD,hourly,AWS;Docker;Pandas;Python;SQL,2026-10-23,Synthetic sample; not real vacancies
+SAMPLE-0023,Platform Engineer,Fictional Studio 15,"New York, NY",Hybrid,Mid,,,USD,annual,Go;Kubernetes;Linux;Python,2026-09-11,Synthetic sample; not real vacancies
+SAMPLE-0024,Full Stack Developer,Fictional Studio 09,"Atlanta, GA",On-site,Internship,1038.46,1384.62,USD,weekly,JavaScript;Node.js;SQL;TypeScript,2026-09-07,Synthetic sample; not real vacancies
+SAMPLE-0025,iOS Developer,Fictional Studio 08,"New York, NY",Remote,Entry,81000.0,121000.0,USD,annual,AWS;Git;Swift,2026-09-21,Synthetic sample; not real vacancies
+SAMPLE-0026,Data Software Engineer,Fictional Studio 20,"Atlanta, GA",Remote,Entry,72000.0,91000.0,USD,annual,AWS;Pandas;Python;SQL,2026-09-20,Synthetic sample; not real vacancies
+SAMPLE-0027,Platform Engineer,Fictional Studio 12,"San Francisco, CA",On-site,Mid,100000.0,130000.0,USD,annual,Go;Kubernetes;Linux;Python;SQL,2026-10-19,Synthetic sample; not real vacancies
+SAMPLE-0028,Mobile Developer,Fictional Studio 08,"Chicago, IL",Hybrid,Senior,146000.0,156000.0,USD,annual,Git;Java;Kotlin,2026-10-28,Synthetic sample; not real vacancies
+SAMPLE-0029,Platform Engineer,Fictional Studio 05,"Seattle, WA",On-site,Mid,56.73,69.23,USD,hourly,Docker;Go;Kubernetes;Linux;Python,2026-10-19,Synthetic sample; not real vacancies
+SAMPLE-0030,Software Engineer,Fictional Studio 13,Remote - US,Remote,Entry,66000.0,80000.0,CAD,annual,Git;Java;SQL;Spring,2026-09-11,Synthetic sample; not real vacancies
+SAMPLE-0031,Full Stack Developer,Fictional Studio 30,"Chicago, IL",Remote,Entry,68000.0,81000.0,USD,annual,JavaScript;Node.js;SQL;TypeScript,2026-10-17,Synthetic sample; not real vacancies
+SAMPLE-0032,Applications Developer,Fictional Studio 30,"Austin, TX",Remote,Entry,73000.0,106000.0,USD,annual,.NET;Azure;C#;Git;SQL,2026-10-28,Synthetic sample; not real vacancies
+SAMPLE-0033,Mobile Developer,Fictional Studio 20,"Chicago, IL",Hybrid,Lead,176000.0,215000.0,USD,annual,Docker;Git;Java;Kotlin,2026-09-04,Synthetic sample; not real vacancies
+SAMPLE-0034,Systems Developer,Fictional Studio 25,Remote - US,Remote,Senior,,,USD,annual,C;C++;Docker;Linux;Rust,2026-10-26,Synthetic sample; not real vacancies
+SAMPLE-0035,Systems Developer,Fictional Studio 13,"Chicago, IL",On-site,Lead,172000.0,182000.0,USD,annual,C;C++;Linux;Rust,2026-09-17,Synthetic sample; not real vacancies
+SAMPLE-0036,Mobile Developer,Fictional Studio 10,"San Francisco, CA",Hybrid,Senior,62.98,75.0,USD,hourly,Git;Java;Kotlin;SQL,2026-09-10,Synthetic sample; not real vacancies
+SAMPLE-0037,Data Software Engineer,Fictional Studio 15,Remote - US,Remote,Mid,102000.0,121000.0,USD,annual,AWS;Pandas;Python;SQL,2026-10-16,Synthetic sample; not real vacancies
+SAMPLE-0038,Systems Developer,Fictional Studio 10,"Austin, TX",On-site,Mid,110000.0,139000.0,USD,annual,C;C++;Git;Linux;Rust,2026-09-19,Synthetic sample; not real vacancies
+SAMPLE-0039,Platform Engineer,Fictional Studio 16,Remote - US,Remote,Senior,10416.67,13416.67,USD,monthly,AWS;Go;Kubernetes;Linux;Python,2026-10-17,Synthetic sample; not real vacancies
+SAMPLE-0040,Data Software Engineer,Fictional Studio 19,"Austin, TX",Hybrid,Entry,79000.0,112000.0,USD,annual,AWS;Pandas;Python;SQL,2026-09-09,Synthetic sample; not real vacancies
+SAMPLE-0041,Data Software Engineer,Fictional Studio 06,"Seattle, WA",Remote,Mid,115000.0,133000.0,USD,annual,AWS;Pandas;Python;SQL,2026-10-02,Synthetic sample; not real vacancies
+SAMPLE-0042,Software Engineer,Fictional Studio 15,"San Francisco, CA",Remote,Senior,127000.0,165000.0,USD,annual,Git;Java;SQL;Spring,2026-10-01,Synthetic sample; not real vacancies
+SAMPLE-0043,Mobile Developer,Fictional Studio 30,"Atlanta, GA",On-site,Mid,49.52,56.25,USD,hourly,Git;Java;Kotlin,2026-10-03,Synthetic sample; not real vacancies
+SAMPLE-0044,Applications Developer,Fictional Studio 16,"Chicago, IL",On-site,Senior,149000.0,182000.0,USD,annual,.NET;Azure;C#;Git;SQL,2026-10-15,Synthetic sample; not real vacancies
+SAMPLE-0045,Backend Developer,Fictional Studio 30,"Austin, TX",On-site,Senior,,,USD,annual,Docker;FastAPI;Python;SQL,2026-09-08,Synthetic sample; not real vacancies
+SAMPLE-0046,Full Stack Developer,Fictional Studio 16,"San Francisco, CA",Hybrid,Senior,132000.0,166000.0,USD,annual,AWS;JavaScript;Node.js;SQL;TypeScript,2026-09-24,Synthetic sample; not real vacancies
+SAMPLE-0047,Full Stack Developer,Fictional Studio 24,"San Francisco, CA",Remote,Mid,2192.31,2480.77,USD,weekly,JavaScript;Node.js;SQL;TypeScript,2026-10-04,Synthetic sample; not real vacancies
+SAMPLE-0048,Applications Developer,Fictional Studio 26,"Rockville, MD",On-site,Mid,105000.0,115000.0,USD,annual,.NET;Azure;C#;Docker;SQL,2026-10-05,Synthetic sample; not real vacancies
+SAMPLE-0049,Frontend Developer,Fictional Studio 21,"Atlanta, GA",On-site,Mid,96000.0,133000.0,USD,annual,CSS;Docker;JavaScript;React;TypeScript,2026-10-10,Synthetic sample; not real vacancies
+SAMPLE-0050,Systems Developer,Fictional Studio 26,"Washington, DC",Hybrid,Entry,37.98,49.04,USD,hourly,C;C++;Linux;Rust,2026-10-14,Synthetic sample; not real vacancies
+SAMPLE-0051,Mobile Developer,Fictional Studio 26,"San Francisco, CA",On-site,Entry,60000.0,80000.0,USD,annual,Git;Java;Kotlin;SQL,2026-09-03,Synthetic sample; not real vacancies
+SAMPLE-0052,Mobile Developer,Fictional Studio 12,"Boston, MA",Hybrid,Entry,60000.0,94000.0,USD,annual,Git;Java;Kotlin,2026-10-04,Synthetic sample; not real vacancies
+SAMPLE-0053,Backend Developer,Fictional Studio 19,"New York, NY",On-site,Mid,109000.0,120000.0,USD,annual,Docker;FastAPI;Python;SQL,2026-09-21,Synthetic sample; not real vacancies
+SAMPLE-0054,Full Stack Developer,Fictional Studio 26,"Seattle, WA",On-site,Senior,145000.0,166000.0,USD,annual,Docker;JavaScript;Node.js;SQL;TypeScript,2026-10-01,Synthetic sample; not real vacancies
+SAMPLE-0055,Data Software Engineer,Fictional Studio 16,Remote - US,Remote,Entry,69000.0,101000.0,USD,annual,AWS;Pandas;Python;SQL,2026-09-16,Synthetic sample; not real vacancies
+SAMPLE-0056,Software Engineer,Fictional Studio 11,"New York, NY",On-site,Senior,,,USD,annual,AWS;Git;Java;SQL;Spring,2026-09-30,Synthetic sample; not real vacancies
+SAMPLE-0057,Frontend Developer,Fictional Studio 05,"Seattle, WA",On-site,Internship,24.04,37.02,USD,hourly,CSS;Git;JavaScript;React;TypeScript,2026-10-23,Synthetic sample; not real vacancies
+SAMPLE-0058,Applications Developer,Fictional Studio 06,Remote - US,Remote,Entry,5916.67,7416.67,USD,monthly,.NET;Azure;C#;Docker;SQL,2026-09-11,Synthetic sample; not real vacancies
+SAMPLE-0059,Systems Developer,Fictional Studio 08,"Washington, DC",On-site,Internship,36000.0,75000.0,CAD,annual,C;C++;Linux;Rust,2026-09-07,Synthetic sample; not real vacancies
+SAMPLE-0060,Backend Developer,Fictional Studio 06,"Washington, DC",Hybrid,Mid,118000.0,139000.0,USD,annual,Docker;FastAPI;Python;SQL,2026-10-24,Synthetic sample; not real vacancies
+SAMPLE-0061,Full Stack Developer,Fictional Studio 14,"New York, NY",Hybrid,Senior,138000.0,163000.0,USD,annual,JavaScript;Node.js;SQL;TypeScript,2026-09-05,Synthetic sample; not real vacancies
+SAMPLE-0062,Full Stack Developer,Fictional Studio 04,"Seattle, WA",Hybrid,Lead,182000.0,210000.0,USD,annual,Git;JavaScript;Node.js;SQL;TypeScript,2026-10-06,Synthetic sample; not real vacancies
+SAMPLE-0063,Full Stack Developer,Fictional Studio 22,"San Francisco, CA",Hybrid,Mid,111000.0,147000.0,USD,annual,AWS;JavaScript;Node.js;SQL;TypeScript,2026-10-26,Synthetic sample; not real vacancies
+SAMPLE-0064,Backend Developer,Fictional Studio 23,"Chicago, IL",Hybrid,Senior,68.27,85.58,USD,hourly,Docker;FastAPI;Python;SQL,2026-10-17,Synthetic sample; not real vacancies
+SAMPLE-0065,Software Engineer,Fictional Studio 12,"Austin, TX",Remote,Senior,140000.0,159000.0,USD,annual,Git;Java;SQL;Spring,2026-10-19,Synthetic sample; not real vacancies
+SAMPLE-0066,Backend Developer,Fictional Studio 17,Remote - US,Remote,Senior,146000.0,167000.0,USD,annual,Docker;FastAPI;Git;Python;SQL,2026-10-05,Synthetic sample; not real vacancies
+SAMPLE-0067,Full Stack Developer,Fictional Studio 14,"Chicago, IL",On-site,Senior,,,USD,annual,Docker;JavaScript;Node.js;SQL;TypeScript,2026-09-07,Synthetic sample; not real vacancies
+SAMPLE-0068,Data Software Engineer,Fictional Studio 06,"Chicago, IL",Hybrid,Mid,95000.0,134000.0,USD,annual,AWS;Git;Pandas;Python;SQL,2026-10-20,Synthetic sample; not real vacancies
+SAMPLE-0069,Frontend Developer,Fictional Studio 29,"Austin, TX",Remote,Senior,147000.0,173000.0,USD,annual,CSS;JavaScript;React;SQL;TypeScript,2026-10-22,Synthetic sample; not real vacancies
+SAMPLE-0070,Applications Developer,Fictional Studio 22,"New York, NY",Hybrid,Entry,1538.46,1826.92,USD,weekly,.NET;Azure;C#;SQL,2026-10-28,Synthetic sample; not real vacancies
+SAMPLE-0071,Software Engineer,Fictional Studio 21,Remote - US,Remote,Entry,35.58,48.56,USD,hourly,Git;Java;SQL;Spring,2026-10-17,Synthetic sample; not real vacancies
+SAMPLE-0072,Applications Developer,Fictional Studio 07,"Washington, DC",On-site,Mid,114000.0,151000.0,USD,annual,.NET;AWS;Azure;C#;SQL,2026-10-19,Synthetic sample; not real vacancies
+SAMPLE-0073,Applications Developer,Fictional Studio 17,"Boston, MA",Remote,Entry,82000.0,107000.0,USD,annual,.NET;Azure;C#;SQL,2026-09-19,Synthetic sample; not real vacancies
+SAMPLE-0074,Software Engineer,Fictional Studio 17,"New York, NY",Remote,Mid,107000.0,144000.0,USD,annual,Git;Java;SQL;Spring,2026-10-13,Synthetic sample; not real vacancies
+SAMPLE-0075,Data Software Engineer,Fictional Studio 12,"Washington, DC",Hybrid,Senior,131000.0,145000.0,USD,annual,AWS;Docker;Pandas;Python;SQL,2026-09-25,Synthetic sample; not real vacancies
+SAMPLE-0076,Systems Developer,Fictional Studio 03,"Rockville, MD",Hybrid,Internship,62000.0,82000.0,USD,annual,C;C++;Linux;Rust,2026-09-06,Synthetic sample; not real vacancies
+SAMPLE-0077,Mobile Developer,Fictional Studio 07,"Atlanta, GA",Hybrid,Senior,12833.33,14416.67,USD,monthly,Git;Java;Kotlin,2026-10-05,Synthetic sample; not real vacancies
+SAMPLE-0078,Data Software Engineer,Fictional Studio 27,Remote - US,Remote,Entry,,,USD,hourly,AWS;Pandas;Python;SQL,2026-09-29,Synthetic sample; not real vacancies
+SAMPLE-0079,Mobile Developer,Fictional Studio 03,"Seattle, WA",Remote,Entry,66000.0,98000.0,USD,annual,Git;Java;Kotlin;SQL,2026-09-01,Synthetic sample; not real vacancies
+SAMPLE-0080,Mobile Developer,Fictional Studio 26,"Boston, MA",On-site,Senior,152000.0,188000.0,USD,annual,Git;Java;Kotlin,2026-10-03,Synthetic sample; not real vacancies
+SAMPLE-0081,Platform Engineer,Fictional Studio 23,"New York, NY",Hybrid,Entry,85000.0,100000.0,USD,annual,Go;Kubernetes;Linux;Python,2026-09-06,Synthetic sample; not real vacancies
+SAMPLE-0082,iOS Developer,Fictional Studio 22,"Seattle, WA",On-site,Mid,95000.0,116000.0,USD,annual,Git;Swift,2026-10-17,Synthetic sample; not real vacancies
+SAMPLE-0083,Software Engineer,Fictional Studio 09,Remote - US,Remote,Mid,92000.0,109000.0,USD,annual,Git;Java;SQL;Spring,2026-09-18,Synthetic sample; not real vacancies
+SAMPLE-0084,Mobile Developer,Fictional Studio 29,"San Francisco, CA",On-site,Mid,105000.0,136000.0,USD,annual,Git;Java;Kotlin;SQL,2026-10-02,Synthetic sample; not real vacancies
+SAMPLE-0085,Full Stack Developer,Fictional Studio 19,"New York, NY",Hybrid,Mid,48.56,59.62,USD,hourly,JavaScript;Node.js;SQL;TypeScript,2026-09-30,Synthetic sample; not real vacancies
+SAMPLE-0086,Mobile Developer,Fictional Studio 24,"New York, NY",On-site,Mid,96000.0,112000.0,USD,annual,Git;Java;Kotlin,2026-10-29,Synthetic sample; not real vacancies
+SAMPLE-0087,Systems Developer,Fictional Studio 11,"San Francisco, CA",On-site,Mid,120000.0,148000.0,USD,annual,C;C++;Linux;Rust,2026-10-04,Synthetic sample; not real vacancies
+SAMPLE-0088,Data Software Engineer,Fictional Studio 02,"New York, NY",Remote,Mid,116000.0,156000.0,CAD,annual,AWS;Git;Pandas;Python;SQL,2026-09-13,Synthetic sample; not real vacancies
+SAMPLE-0089,Mobile Developer,Fictional Studio 12,Remote - US,Remote,Senior,,,USD,annual,Git;Java;Kotlin,2026-09-22,Synthetic sample; not real vacancies
+SAMPLE-0090,Platform Engineer,Fictional Studio 18,Remote - US,Remote,Mid,94000.0,129000.0,USD,annual,Docker;Go;Kubernetes;Linux;Python,2026-09-03,Synthetic sample; not real vacancies
+SAMPLE-0091,Applications Developer,Fictional Studio 25,"Rockville, MD",Hybrid,Senior,141000.0,161000.0,USD,annual,.NET;Azure;C#;Git;SQL,2026-10-08,Synthetic sample; not real vacancies
+SAMPLE-0092,Mobile Developer,Fictional Studio 19,"Atlanta, GA",On-site,Senior,62.5,75.96,USD,hourly,Git;Java;Kotlin,2026-09-27,Synthetic sample; not real vacancies
+SAMPLE-0093,Software Engineer,Fictional Studio 01,"Rockville, MD",Remote,Mid,1903.85,2326.92,USD,weekly,Git;Java;SQL;Spring,2026-10-03,Synthetic sample; not real vacancies
+SAMPLE-0094,Data Software Engineer,Fictional Studio 23,"Chicago, IL",Hybrid,Mid,113000.0,125000.0,USD,annual,AWS;Pandas;Python;SQL,2026-09-06,Synthetic sample; not real vacancies
+SAMPLE-0095,Full Stack Developer,Fictional Studio 11,"Seattle, WA",Hybrid,Lead,164000.0,175000.0,USD,annual,JavaScript;Node.js;SQL;TypeScript,2026-10-06,Synthetic sample; not real vacancies
+SAMPLE-0096,Full Stack Developer,Fictional Studio 24,"Atlanta, GA",Remote,Lead,14000.0,17000.0,USD,monthly,AWS;JavaScript;Node.js;SQL;TypeScript,2026-09-25,Synthetic sample; not real vacancies
+SAMPLE-0097,Platform Engineer,Fictional Studio 22,"Atlanta, GA",Hybrid,Senior,131000.0,156000.0,USD,annual,Git;Go;Kubernetes;Linux;Python,2026-09-24,Synthetic sample; not real vacancies
+SAMPLE-0098,Frontend Developer,Fictional Studio 02,"Rockville, MD",Hybrid,Mid,113000.0,132000.0,USD,annual,CSS;Git;JavaScript;React;TypeScript,2026-09-02,Synthetic sample; not real vacancies
+SAMPLE-0099,Mobile Developer,Fictional Studio 27,"Atlanta, GA",On-site,Senior,70.67,89.42,USD,hourly,Git;Java;Kotlin;SQL,2026-10-02,Synthetic sample; not real vacancies
+SAMPLE-0100,iOS Developer,Fictional Studio 27,"Austin, TX",Remote,Entry,,,USD,annual,Docker;Git;Swift,2026-09-17,Synthetic sample; not real vacancies
+SAMPLE-0101,Backend Developer,Fictional Studio 07,"Chicago, IL",Remote,Mid,94000.0,105000.0,USD,annual,Docker;FastAPI;Python;SQL,2026-10-08,Synthetic sample; not real vacancies
+SAMPLE-0102,Frontend Developer,Fictional Studio 21,"New York, NY",On-site,Senior,152000.0,173000.0,USD,annual,CSS;Git;JavaScript;React;TypeScript,2026-10-30,Synthetic sample; not real vacancies
+SAMPLE-0103,Backend Developer,Fictional Studio 05,Remote - US,Remote,Mid,109000.0,136000.0,USD,annual,Docker;FastAPI;Python;SQL,2026-09-01,Synthetic sample; not real vacancies
+SAMPLE-0104,iOS Developer,Fictional Studio 06,"New York, NY",On-site,Internship,57000.0,75000.0,USD,annual,Git;Swift,2026-10-11,Synthetic sample; not real vacancies
+SAMPLE-0105,Full Stack Developer,Fictional Studio 22,"Washington, DC",Remote,Entry,86000.0,109000.0,USD,annual,JavaScript;Node.js;SQL;TypeScript,2026-10-17,Synthetic sample; not real vacancies
+SAMPLE-0106,Mobile Developer,Fictional Studio 28,"Boston, MA",On-site,Mid,43.27,61.06,USD,hourly,Git;Java;Kotlin,2026-09-03,Synthetic sample; not real vacancies
+SAMPLE-0107,Software Engineer,Fictional Studio 20,"Seattle, WA",On-site,Internship,53000.0,69000.0,USD,annual,AWS;Git;Java;SQL;Spring,2026-09-26,Synthetic sample; not real vacancies
+SAMPLE-0108,Platform Engineer,Fictional Studio 06,"Seattle, WA",Remote,Senior,132000.0,167000.0,USD,annual,Go;Kubernetes;Linux;Python;SQL,2026-09-21,Synthetic sample; not real vacancies
+SAMPLE-0109,Systems Developer,Fictional Studio 16,"Austin, TX",On-site,Internship,38000.0,56000.0,USD,annual,C;C++;Linux;Rust,2026-10-15,Synthetic sample; not real vacancies
+SAMPLE-0110,Full Stack Developer,Fictional Studio 13,"Boston, MA",On-site,Senior,130000.0,148000.0,USD,annual,AWS;JavaScript;Node.js;SQL;TypeScript,2026-09-19,Synthetic sample; not real vacancies
+SAMPLE-0111,iOS Developer,Fictional Studio 27,"Atlanta, GA",Hybrid,Lead,,,USD,annual,Git;SQL;Swift,2026-09-23,Synthetic sample; not real vacancies
+SAMPLE-0112,Software Engineer,Fictional Studio 10,Remote - US,Remote,Senior,143000.0,154000.0,USD,annual,Git;Java;SQL;Spring,2026-10-11,Synthetic sample; not real vacancies
+SAMPLE-0113,Applications Developer,Fictional Studio 24,"Rockville, MD",Remote,Lead,85.58,96.63,USD,hourly,.NET;Azure;C#;Docker;SQL,2026-10-05,Synthetic sample; not real vacancies
+SAMPLE-0114,Backend Developer,Fictional Studio 12,"San Francisco, CA",Remote,Internship,39000.0,57000.0,USD,annual,Docker;FastAPI;Python;SQL,2026-10-28,Synthetic sample; not real vacancies
+SAMPLE-0115,Backend Developer,Fictional Studio 26,"Chicago, IL",Remote,Mid,9583.33,11416.67,USD,monthly,Docker;FastAPI;Python;SQL,2026-10-11,Synthetic sample; not real vacancies
+SAMPLE-0116,Systems Developer,Fictional Studio 20,"Washington, DC",Remote,Senior,2826.92,3307.69,USD,weekly,C;C++;Linux;Rust,2026-10-04,Synthetic sample; not real vacancies
+SAMPLE-0117,iOS Developer,Fictional Studio 18,"Chicago, IL",Hybrid,Senior,146000.0,160000.0,CAD,annual,Git;Swift,2026-09-02,Synthetic sample; not real vacancies
+SAMPLE-0118,Applications Developer,Fictional Studio 28,Remote - US,Remote,Entry,73000.0,108000.0,USD,annual,.NET;Azure;C#;SQL,2026-10-26,Synthetic sample; not real vacancies
+SAMPLE-0119,Backend Developer,Fictional Studio 15,Remote - US,Remote,Mid,119000.0,129000.0,USD,annual,Docker;FastAPI;Git;Python;SQL,2026-09-28,Synthetic sample; not real vacancies
+SAMPLE-0120,iOS Developer,Fictional Studio 13,"Austin, TX",Remote,Mid,43.27,52.88,USD,hourly,Git;Swift,2026-09-20,Synthetic sample; not real vacancies
+SAMPLE-0121,Full Stack Developer,Fictional Studio 26,"Atlanta, GA",On-site,Senior,150000.0,186000.0,USD,annual,JavaScript;Node.js;SQL;TypeScript,2026-10-09,Synthetic sample; not real vacancies
+SAMPLE-0122,Platform Engineer,Fictional Studio 25,"Chicago, IL",On-site,Lead,,,USD,annual,Docker;Go;Kubernetes;Linux;Python,2026-10-15,Synthetic sample; not real vacancies
+SAMPLE-0123,Software Engineer,Fictional Studio 20,"Boston, MA",Hybrid,Mid,113000.0,152000.0,USD,annual,AWS;Git;Java;SQL;Spring,2026-10-30,Synthetic sample; not real vacancies
+SAMPLE-0124,Applications Developer,Fictional Studio 21,"Boston, MA",Remote,Entry,65000.0,86000.0,USD,annual,.NET;AWS;Azure;C#;SQL,2026-09-21,Synthetic sample; not real vacancies
+SAMPLE-0125,Mobile Developer,Fictional Studio 15,"New York, NY",Remote,Entry,67000.0,100000.0,USD,annual,Git;Java;Kotlin,2026-09-21,Synthetic sample; not real vacancies
+SAMPLE-0126,Full Stack Developer,Fictional Studio 07,"Rockville, MD",Hybrid,Entry,86000.0,116000.0,USD,annual,Docker;JavaScript;Node.js;SQL;TypeScript,2026-10-26,Synthetic sample; not real vacancies
+SAMPLE-0127,Software Engineer,Fictional Studio 29,"Chicago, IL",On-site,Mid,56.73,62.98,USD,hourly,Git;Java;SQL;Spring,2026-10-05,Synthetic sample; not real vacancies
+SAMPLE-0128,Mobile Developer,Fictional Studio 18,"Seattle, WA",On-site,Lead,179000.0,210000.0,USD,annual,Git;Java;Kotlin;SQL,2026-10-15,Synthetic sample; not real vacancies
+SAMPLE-0129,Frontend Developer,Fictional Studio 03,"New York, NY",Hybrid,Mid,119000.0,139000.0,USD,annual,CSS;JavaScript;React;TypeScript,2026-09-28,Synthetic sample; not real vacancies
+SAMPLE-0130,Software Engineer,Fictional Studio 22,"Chicago, IL",On-site,Entry,81000.0,104000.0,USD,annual,Docker;Git;Java;SQL;Spring,2026-10-25,Synthetic sample; not real vacancies
+SAMPLE-0131,Data Software Engineer,Fictional Studio 28,"New York, NY",On-site,Entry,61000.0,81000.0,USD,annual,AWS;Pandas;Python;SQL,2026-09-29,Synthetic sample; not real vacancies
+SAMPLE-0132,Frontend Developer,Fictional Studio 22,"Austin, TX",Hybrid,Mid,90000.0,129000.0,USD,annual,CSS;JavaScript;React;SQL;TypeScript,2026-10-11,Synthetic sample; not real vacancies
+SAMPLE-0133,iOS Developer,Fictional Studio 20,"San Francisco, CA",Remote,Mid,,,USD,annual,Git;Swift,2026-09-23,Synthetic sample; not real vacancies
+SAMPLE-0134,Mobile Developer,Fictional Studio 26,"New York, NY",On-site,Lead,77.88,96.63,USD,hourly,Git;Java;Kotlin,2026-09-24,Synthetic sample; not real vacancies
+SAMPLE-0135,iOS Developer,Fictional Studio 24,"Atlanta, GA",On-site,Senior,135000.0,173000.0,USD,annual,Git;Swift,2026-10-04,Synthetic sample; not real vacancies
+SAMPLE-0136,Applications Developer,Fictional Studio 14,"Chicago, IL",Hybrid,Mid,94000.0,127000.0,USD,annual,.NET;AWS;Azure;C#;SQL,2026-09-29,Synthetic sample; not real vacancies
+SAMPLE-0137,Full Stack Developer,Fictional Studio 08,"San Francisco, CA",On-site,Senior,128000.0,145000.0,USD,annual,JavaScript;Node.js;SQL;TypeScript,2026-10-09,Synthetic sample; not real vacancies
+SAMPLE-0138,Systems Developer,Fictional Studio 17,"Rockville, MD",Remote,Senior,134000.0,158000.0,USD,annual,C;C++;Docker;Linux;Rust,2026-10-24,Synthetic sample; not real vacancies
+SAMPLE-0139,Platform Engineer,Fictional Studio 11,"Boston, MA",Hybrid,Mid,2076.92,2634.62,USD,weekly,Go;Kubernetes;Linux;Python;SQL,2026-09-17,Synthetic sample; not real vacancies
+SAMPLE-0140,Full Stack Developer,Fictional Studio 01,"San Francisco, CA",Hybrid,Senior,150000.0,180000.0,USD,annual,Docker;JavaScript;Node.js;SQL;TypeScript,2026-10-01,Synthetic sample; not real vacancies
+SAMPLE-0141,Data Software Engineer,Fictional Studio 24,"Chicago, IL",On-site,Mid,49.52,63.46,USD,hourly,AWS;Pandas;Python;SQL,2026-09-10,Synthetic sample; not real vacancies
+SAMPLE-0142,Applications Developer,Fictional Studio 18,"Austin, TX",Hybrid,Senior,132000.0,146000.0,USD,annual,.NET;Azure;C#;SQL,2026-10-23,Synthetic sample; not real vacancies
+SAMPLE-0143,Software Engineer,Fictional Studio 29,"Seattle, WA",Hybrid,Senior,149000.0,189000.0,USD,annual,Git;Java;SQL;Spring,2026-10-18,Synthetic sample; not real vacancies
+SAMPLE-0144,Frontend Developer,Fictional Studio 28,"Washington, DC",Hybrid,Mid,,,USD,annual,CSS;JavaScript;React;TypeScript,2026-10-22,Synthetic sample; not real vacancies
+SAMPLE-0145,Mobile Developer,Fictional Studio 23,"Boston, MA",Hybrid,Entry,71000.0,105000.0,USD,annual,Git;Java;Kotlin,2026-09-08,Synthetic sample; not real vacancies
+SAMPLE-0146,Software Engineer,Fictional Studio 11,"Boston, MA",On-site,Entry,81000.0,111000.0,CAD,annual,Git;Java;SQL;Spring,2026-10-18,Synthetic sample; not real vacancies
+SAMPLE-0147,Full Stack Developer,Fictional Studio 06,"Washington, DC",Remote,Entry,84000.0,102000.0,USD,annual,AWS;JavaScript;Node.js;SQL;TypeScript,2026-10-29,Synthetic sample; not real vacancies
+SAMPLE-0148,Data Software Engineer,Fictional Studio 01,"Atlanta, GA",Hybrid,Mid,56.73,72.6,USD,hourly,AWS;Pandas;Python;SQL,2026-09-20,Synthetic sample; not real vacancies
+SAMPLE-0149,Data Software Engineer,Fictional Studio 10,"Boston, MA",Hybrid,Mid,92000.0,131000.0,USD,annual,AWS;Pandas;Python;SQL,2026-09-21,Synthetic sample; not real vacancies
+SAMPLE-0150,iOS Developer,Fictional Studio 07,"Seattle, WA",Hybrid,Senior,143000.0,167000.0,USD,annual,AWS;Git;Swift,2026-10-11,Synthetic sample; not real vacancies
+SAMPLE-0151,Software Engineer,Fictional Studio 06,"Seattle, WA",Hybrid,Senior,136000.0,147000.0,USD,annual,Git;Java;SQL;Spring,2026-10-17,Synthetic sample; not real vacancies
+SAMPLE-0152,Systems Developer,Fictional Studio 15,"Seattle, WA",Remote,Entry,81000.0,99000.0,USD,annual,C;C++;Docker;Linux;Rust,2026-09-07,Synthetic sample; not real vacancies
+SAMPLE-0153,Applications Developer,Fictional Studio 08,"New York, NY",Remote,Internship,3083.33,4416.67,USD,monthly,.NET;Azure;C#;SQL,2026-09-10,Synthetic sample; not real vacancies
+SAMPLE-0154,iOS Developer,Fictional Studio 15,"Rockville, MD",Remote,Entry,81000.0,93000.0,USD,annual,Git;Swift,2026-09-22,Synthetic sample; not real vacancies
+SAMPLE-0155,Software Engineer,Fictional Studio 16,Remote - US,Remote,Senior,,,USD,hourly,Docker;Git;Java;SQL;Spring,2026-10-11,Synthetic sample; not real vacancies
+SAMPLE-0156,Platform Engineer,Fictional Studio 07,"New York, NY",Hybrid,Mid,95000.0,118000.0,USD,annual,Go;Kubernetes;Linux;Python,2026-10-23,Synthetic sample; not real vacancies
+SAMPLE-0157,Data Software Engineer,Fictional Studio 11,Remote - US,Remote,Mid,108000.0,132000.0,USD,annual,AWS;Git;Pandas;Python;SQL,2026-09-22,Synthetic sample; not real vacancies
+SAMPLE-0158,Systems Developer,Fictional Studio 11,"Seattle, WA",Hybrid,Internship,38000.0,65000.0,USD,annual,C;C++;Linux;Rust,2026-10-12,Synthetic sample; not real vacancies
+SAMPLE-0159,Frontend Developer,Fictional Studio 25,"Boston, MA",On-site,Entry,71000.0,110000.0,USD,annual,CSS;JavaScript;React;SQL;TypeScript,2026-09-12,Synthetic sample; not real vacancies
+SAMPLE-0160,Full Stack Developer,Fictional Studio 18,"Washington, DC",Hybrid,Lead,179000.0,211000.0,USD,annual,AWS;JavaScript;Node.js;SQL;TypeScript,2026-10-12,Synthetic sample; not real vacancies
+SAMPLE-0161,iOS Developer,Fictional Studio 02,"New York, NY",Remote,Mid,104000.0,127000.0,USD,annual,Docker;Git;Swift,2026-09-21,Synthetic sample; not real vacancies
+SAMPLE-0162,Platform Engineer,Fictional Studio 17,"Boston, MA",Remote,Senior,60.58,78.85,USD,hourly,Git;Go;Kubernetes;Linux;Python,2026-10-16,Synthetic sample; not real vacancies
+SAMPLE-0163,Systems Developer,Fictional Studio 23,"New York, NY",On-site,Mid,100000.0,131000.0,USD,annual,C;C++;Linux;Rust,2026-10-02,Synthetic sample; not real vacancies
+SAMPLE-0164,Data Software Engineer,Fictional Studio 12,"Boston, MA",Hybrid,Senior,129000.0,163000.0,USD,annual,AWS;Pandas;Python;SQL,2026-09-18,Synthetic sample; not real vacancies
+SAMPLE-0165,iOS Developer,Fictional Studio 02,"Atlanta, GA",On-site,Mid,91000.0,130000.0,USD,annual,Docker;Git;Swift,2026-10-20,Synthetic sample; not real vacancies
+SAMPLE-0166,Systems Developer,Fictional Studio 26,"New York, NY",Hybrid,Senior,,,USD,annual,C;C++;Linux;Rust,2026-10-06,Synthetic sample; not real vacancies
+SAMPLE-0167,Mobile Developer,Fictional Studio 21,"Boston, MA",On-site,Senior,134000.0,170000.0,USD,annual,Git;Java;Kotlin,2026-09-12,Synthetic sample; not real vacancies
+SAMPLE-0168,Backend Developer,Fictional Studio 10,"Austin, TX",Remote,Senior,153000.0,165000.0,USD,annual,Docker;FastAPI;Python;SQL,2026-10-22,Synthetic sample; not real vacancies
+SAMPLE-0169,Software Engineer,Fictional Studio 10,"New York, NY",Remote,Entry,41.83,49.52,USD,hourly,AWS;Git;Java;SQL;Spring,2026-09-08,Synthetic sample; not real vacancies
+SAMPLE-0170,Full Stack Developer,Fictional Studio 01,Remote - US,Remote,Entry,70000.0,105000.0,USD,annual,JavaScript;Node.js;SQL;TypeScript,2026-09-30,Synthetic sample; not real vacancies
+SAMPLE-0171,Full Stack Developer,Fictional Studio 22,"Seattle, WA",Remote,Mid,120000.0,157000.0,USD,annual,AWS;JavaScript;Node.js;SQL;TypeScript,2026-10-23,Synthetic sample; not real vacancies
+SAMPLE-0172,Applications Developer,Fictional Studio 15,"San Francisco, CA",On-site,Internship,4416.67,5333.33,USD,monthly,.NET;Azure;C#;SQL,2026-10-19,Synthetic sample; not real vacancies
+SAMPLE-0173,Full Stack Developer,Fictional Studio 24,"Seattle, WA",Hybrid,Entry,74000.0,92000.0,USD,annual,JavaScript;Node.js;SQL;TypeScript,2026-10-15,Synthetic sample; not real vacancies
+SAMPLE-0174,Platform Engineer,Fictional Studio 28,"Boston, MA",On-site,Mid,107000.0,119000.0,USD,annual,Go;Kubernetes;Linux;Python,2026-09-03,Synthetic sample; not real vacancies
+SAMPLE-0175,Platform Engineer,Fictional Studio 18,"Atlanta, GA",On-site,Lead,160000.0,172000.0,CAD,annual,Go;Kubernetes;Linux;Python,2026-09-11,Synthetic sample; not real vacancies
+SAMPLE-0176,Full Stack Developer,Fictional Studio 11,"Seattle, WA",Remote,Entry,33.65,40.87,USD,hourly,Git;JavaScript;Node.js;SQL;TypeScript,2026-09-28,Synthetic sample; not real vacancies
+SAMPLE-0177,Systems Developer,Fictional Studio 28,"Chicago, IL",On-site,Senior,,,USD,annual,C;C++;Docker;Linux;Rust,2026-10-25,Synthetic sample; not real vacancies
+SAMPLE-0178,Systems Developer,Fictional Studio 01,"New York, NY",On-site,Mid,119000.0,159000.0,USD,annual,C;C++;Linux;Rust;SQL,2026-10-14,Synthetic sample; not real vacancies
+SAMPLE-0179,Backend Developer,Fictional Studio 17,"Boston, MA",Remote,Mid,104000.0,116000.0,USD,annual,Docker;FastAPI;Python;SQL,2026-09-28,Synthetic sample; not real vacancies
+SAMPLE-0180,Software Engineer,Fictional Studio 10,"Austin, TX",On-site,Internship,61000.0,76000.0,USD,annual,Git;Java;SQL;Spring,2026-09-19,Synthetic sample; not real vacancies
+SAMPLE-0181,Mobile Developer,Fictional Studio 13,Remote - US,Remote,Entry,71000.0,98000.0,USD,annual,Git;Java;Kotlin,2026-10-20,Synthetic sample; not real vacancies
+SAMPLE-0182,Systems Developer,Fictional Studio 03,"Washington, DC",Hybrid,Entry,88000.0,101000.0,USD,annual,C;C++;Linux;Rust;SQL,2026-09-30,Synthetic sample; not real vacancies
+SAMPLE-0183,Applications Developer,Fictional Studio 23,"Chicago, IL",On-site,Mid,52.4,65.38,USD,hourly,.NET;Azure;C#;SQL,2026-09-20,Synthetic sample; not real vacancies
+SAMPLE-0184,Software Engineer,Fictional Studio 27,Remote - US,Remote,Entry,78000.0,107000.0,USD,annual,Git;Java;SQL;Spring,2026-10-24,Synthetic sample; not real vacancies
+SAMPLE-0185,Full Stack Developer,Fictional Studio 30,"Boston, MA",Remote,Senior,2615.38,2826.92,USD,weekly,AWS;JavaScript;Node.js;SQL;TypeScript,2026-10-08,Synthetic sample; not real vacancies
+SAMPLE-0186,Software Engineer,Fictional Studio 28,"Seattle, WA",Remote,Senior,128000.0,158000.0,USD,annual,AWS;Git;Java;SQL;Spring,2026-09-14,Synthetic sample; not real vacancies
+SAMPLE-0187,Backend Developer,Fictional Studio 05,"Washington, DC",Hybrid,Mid,114000.0,132000.0,USD,annual,Docker;FastAPI;Python;SQL,2026-09-24,Synthetic sample; not real vacancies
+SAMPLE-0188,Mobile Developer,Fictional Studio 29,"Boston, MA",Remote,Senior,,,USD,annual,Git;Java;Kotlin,2026-10-04,Synthetic sample; not real vacancies
+SAMPLE-0189,Data Software Engineer,Fictional Studio 05,"Chicago, IL",Hybrid,Lead,160000.0,180000.0,USD,annual,AWS;Pandas;Python;SQL,2026-09-14,Synthetic sample; not real vacancies
+SAMPLE-0190,Data Software Engineer,Fictional Studio 10,"Rockville, MD",On-site,Mid,56.25,73.56,USD,hourly,AWS;Pandas;Python;SQL,2026-09-20,Synthetic sample; not real vacancies
+SAMPLE-0191,Data Software Engineer,Fictional Studio 22,"Seattle, WA",Remote,Mid,7666.67,9250.0,USD,monthly,AWS;Pandas;Python;SQL,2026-10-02,Synthetic sample; not real vacancies
+SAMPLE-0192,Mobile Developer,Fictional Studio 14,"Atlanta, GA",On-site,Entry,84000.0,96000.0,USD,annual,AWS;Git;Java;Kotlin,2026-09-29,Synthetic sample; not real vacancies
+SAMPLE-0193,Systems Developer,Fictional Studio 06,"Austin, TX",Remote,Entry,71000.0,94000.0,USD,annual,C;C++;Git;Linux;Rust,2026-10-23,Synthetic sample; not real vacancies
+SAMPLE-0194,Software Engineer,Fictional Studio 01,"New York, NY",On-site,Mid,91000.0,103000.0,USD,annual,Git;Java;SQL;Spring,2026-10-17,Synthetic sample; not real vacancies
+SAMPLE-0195,Backend Developer,Fictional Studio 28,"Atlanta, GA",Hybrid,Senior,148000.0,182000.0,USD,annual,AWS;Docker;FastAPI;Python;SQL,2026-09-28,Synthetic sample; not real vacancies
+SAMPLE-0196,Applications Developer,Fictional Studio 17,"New York, NY",On-site,Lead,171000.0,198000.0,USD,annual,.NET;Azure;C#;Git;SQL,2026-09-11,Synthetic sample; not real vacancies
+SAMPLE-0197,iOS Developer,Fictional Studio 09,Remote - US,Remote,Entry,36.06,49.04,USD,hourly,AWS;Git;Swift,2026-10-20,Synthetic sample; not real vacancies
+SAMPLE-0198,Data Software Engineer,Fictional Studio 05,"Washington, DC",Remote,Entry,80000.0,100000.0,USD,annual,AWS;Pandas;Python;SQL,2026-10-16,Synthetic sample; not real vacancies
+SAMPLE-0199,Mobile Developer,Fictional Studio 16,"Seattle, WA",Hybrid,Entry,,,USD,annual,Docker;Git;Java;Kotlin,2026-09-01,Synthetic sample; not real vacancies
+SAMPLE-0200,Software Engineer,Fictional Studio 04,"Seattle, WA",Hybrid,Senior,149000.0,173000.0,USD,annual,Git;Java;SQL;Spring,2026-10-29,Synthetic sample; not real vacancies
+SAMPLE-0201,Frontend Developer,Fictional Studio 15,"Washington, DC",Hybrid,Entry,70000.0,99000.0,USD,annual,CSS;JavaScript;React;TypeScript,2026-09-27,Synthetic sample; not real vacancies
+SAMPLE-0202,iOS Developer,Fictional Studio 23,"Chicago, IL",Hybrid,Senior,137000.0,154000.0,USD,annual,Git;Swift,2026-10-11,Synthetic sample; not real vacancies
+SAMPLE-0203,iOS Developer,Fictional Studio 20,"Austin, TX",Hybrid,Senior,128000.0,156000.0,USD,annual,Git;Swift,2026-10-21,Synthetic sample; not real vacancies
+SAMPLE-0204,Frontend Developer,Fictional Studio 05,"San Francisco, CA",On-site,Senior,73.08,90.38,CAD,hourly,CSS;JavaScript;React;TypeScript,2026-09-09,Synthetic sample; not real vacancies
+SAMPLE-0205,Systems Developer,Fictional Studio 06,"Boston, MA",Hybrid,Mid,113000.0,139000.0,USD,annual,C;C++;Linux;Rust;SQL,2026-10-10,Synthetic sample; not real vacancies
+SAMPLE-0206,Applications Developer,Fictional Studio 21,"New York, NY",On-site,Entry,72000.0,110000.0,USD,annual,.NET;AWS;Azure;C#;SQL,2026-10-14,Synthetic sample; not real vacancies
+SAMPLE-0207,Platform Engineer,Fictional Studio 10,"Rockville, MD",Hybrid,Entry,84000.0,118000.0,USD,annual,Go;Kubernetes;Linux;Python;SQL,2026-09-08,Synthetic sample; not real vacancies
+SAMPLE-0208,Full Stack Developer,Fictional Studio 11,"Washington, DC",Remote,Lead,3211.54,3403.85,USD,weekly,JavaScript;Node.js;SQL;TypeScript,2026-10-14,Synthetic sample; not real vacancies
+SAMPLE-0209,Systems Developer,Fictional Studio 08,Remote - US,Remote,Internship,55000.0,76000.0,USD,annual,AWS;C;C++;Linux;Rust,2026-10-23,Synthetic sample; not real vacancies
+SAMPLE-0210,iOS Developer,Fictional Studio 05,"Chicago, IL",On-site,Entry,,,USD,monthly,Git;Swift,2026-09-17,Synthetic sample; not real vacancies
+SAMPLE-0211,Backend Developer,Fictional Studio 11,"Chicago, IL",Hybrid,Lead,82.21,89.9,USD,hourly,Docker;FastAPI;Python;SQL,2026-09-26,Synthetic sample; not real vacancies
+SAMPLE-0212,Platform Engineer,Fictional Studio 16,Remote - US,Remote,Senior,138000.0,155000.0,USD,annual,Docker;Go;Kubernetes;Linux;Python,2026-10-29,Synthetic sample; not real vacancies
+SAMPLE-0213,Software Engineer,Fictional Studio 24,"Atlanta, GA",On-site,Mid,116000.0,156000.0,USD,annual,Git;Java;SQL;Spring,2026-09-26,Synthetic sample; not real vacancies
+SAMPLE-0214,Full Stack Developer,Fictional Studio 29,"Boston, MA",Remote,Senior,138000.0,169000.0,USD,annual,JavaScript;Node.js;SQL;TypeScript,2026-10-20,Synthetic sample; not real vacancies
+SAMPLE-0215,Data Software Engineer,Fictional Studio 13,"Austin, TX",Hybrid,Senior,131000.0,156000.0,USD,annual,AWS;Pandas;Python;SQL,2026-10-21,Synthetic sample; not real vacancies
+SAMPLE-0216,Full Stack Developer,Fictional Studio 11,"Rockville, MD",Hybrid,Mid,116000.0,151000.0,USD,annual,JavaScript;Node.js;SQL;TypeScript,2026-09-30,Synthetic sample; not real vacancies
+SAMPLE-0217,Software Engineer,Fictional Studio 11,"Seattle, WA",Hybrid,Senior,153000.0,164000.0,USD,annual,Git;Java;SQL;Spring,2026-10-15,Synthetic sample; not real vacancies
+SAMPLE-0218,Full Stack Developer,Fictional Studio 06,"Atlanta, GA",Hybrid,Senior,69.71,85.1,USD,hourly,JavaScript;Node.js;SQL;TypeScript,2026-10-11,Synthetic sample; not real vacancies
+SAMPLE-0219,Frontend Developer,Fictional Studio 05,"Atlanta, GA",On-site,Internship,47000.0,60000.0,USD,annual,CSS;JavaScript;React;TypeScript,2026-10-10,Synthetic sample; not real vacancies
+SAMPLE-0220,Mobile Developer,Fictional Studio 21,"Rockville, MD",On-site,Senior,143000.0,179000.0,USD,annual,Git;Java;Kotlin,2026-10-14,Synthetic sample; not real vacancies
+SAMPLE-0221,Software Engineer,Fictional Studio 12,"Boston, MA",On-site,Internship,,,USD,annual,AWS;Git;Java;SQL;Spring,2026-10-05,Synthetic sample; not real vacancies
+SAMPLE-0222,Systems Developer,Fictional Studio 17,"New York, NY",On-site,Senior,138000.0,177000.0,USD,annual,C;C++;Linux;Rust,2026-09-29,Synthetic sample; not real vacancies
+SAMPLE-0223,Platform Engineer,Fictional Studio 17,"Washington, DC",Hybrid,Senior,141000.0,151000.0,USD,annual,Go;Kubernetes;Linux;Python;SQL,2026-09-06,Synthetic sample; not real vacancies
+SAMPLE-0224,Frontend Developer,Fictional Studio 26,"Boston, MA",Hybrid,Senior,149000.0,182000.0,USD,annual,CSS;JavaScript;React;TypeScript,2026-09-21,Synthetic sample; not real vacancies
+SAMPLE-0225,Data Software Engineer,Fictional Studio 18,"Boston, MA",Remote,Entry,36.54,43.75,USD,hourly,AWS;Git;Pandas;Python;SQL,2026-09-12,Synthetic sample; not real vacancies
+SAMPLE-0226,Software Engineer,Fictional Studio 24,"Atlanta, GA",Hybrid,Entry,72000.0,88000.0,USD,annual,Docker;Git;Java;SQL;Spring,2026-10-05,Synthetic sample; not real vacancies
+SAMPLE-0227,Mobile Developer,Fictional Studio 22,Remote - US,Remote,Senior,152000.0,190000.0,USD,annual,AWS;Git;Java;Kotlin,2026-09-13,Synthetic sample; not real vacancies
+SAMPLE-0228,Software Engineer,Fictional Studio 06,"Chicago, IL",Hybrid,Lead,185000.0,224000.0,USD,annual,Git;Java;SQL;Spring,2026-09-19,Synthetic sample; not real vacancies
+SAMPLE-0229,Mobile Developer,Fictional Studio 01,"Washington, DC",On-site,Internship,3583.33,6750.0,USD,monthly,Git;Java;Kotlin,2026-10-02,Synthetic sample; not real vacancies
+SAMPLE-0230,Software Engineer,Fictional Studio 29,"Seattle, WA",On-site,Lead,182000.0,198000.0,USD,annual,Git;Java;SQL;Spring,2026-10-06,Synthetic sample; not real vacancies
+SAMPLE-0231,Frontend Developer,Fictional Studio 18,"San Francisco, CA",On-site,Entry,1365.38,1846.15,USD,weekly,CSS;Docker;JavaScript;React;TypeScript,2026-09-29,Synthetic sample; not real vacancies
+SAMPLE-0232,Data Software Engineer,Fictional Studio 23,"Boston, MA",Hybrid,Senior,,,USD,hourly,AWS;Git;Pandas;Python;SQL,2026-09-07,Synthetic sample; not real vacancies
+SAMPLE-0233,Applications Developer,Fictional Studio 23,Remote - US,Remote,Senior,132000.0,168000.0,CAD,annual,.NET;Azure;C#;SQL,2026-10-20,Synthetic sample; not real vacancies
+SAMPLE-0234,Systems Developer,Fictional Studio 23,"New York, NY",Remote,Entry,87000.0,117000.0,USD,annual,C;C++;Linux;Rust,2026-10-04,Synthetic sample; not real vacancies
+SAMPLE-0235,Systems Developer,Fictional Studio 09,"New York, NY",Remote,Mid,91000.0,103000.0,USD,annual,C;C++;Linux;Rust;SQL,2026-10-20,Synthetic sample; not real vacancies
+SAMPLE-0236,Mobile Developer,Fictional Studio 04,"Chicago, IL",On-site,Entry,75000.0,113000.0,USD,annual,Git;Java;Kotlin,2026-10-28,Synthetic sample; not real vacancies
+SAMPLE-0237,Frontend Developer,Fictional Studio 01,"Rockville, MD",Remote,Senior,151000.0,172000.0,USD,annual,CSS;Docker;JavaScript;React;TypeScript,2026-10-06,Synthetic sample; not real vacancies
+SAMPLE-0238,Mobile Developer,Fictional Studio 13,"New York, NY",On-site,Senior,144000.0,168000.0,USD,annual,Git;Java;Kotlin,2026-10-03,Synthetic sample; not real vacancies
+SAMPLE-0239,Full Stack Developer,Fictional Studio 24,Remote - US,Remote,Senior,62.98,71.63,USD,hourly,JavaScript;Node.js;SQL;TypeScript,2026-09-19,Synthetic sample; not real vacancies
+SAMPLE-0240,Mobile Developer,Fictional Studio 18,"Austin, TX",On-site,Senior,152000.0,162000.0,USD,annual,Git;Java;Kotlin,2026-10-03,Synthetic sample; not real vacancies
+SAMPLE-0241,Platform Engineer,Fictional Studio 27,"Seattle, WA",Hybrid,Senior,126000.0,136000.0,USD,annual,Git;Go;Kubernetes;Linux;Python,2026-09-07,Synthetic sample; not real vacancies
+SAMPLE-0242,Mobile Developer,Fictional Studio 22,"New York, NY",Hybrid,Internship,45000.0,71000.0,USD,annual,AWS;Git;Java;Kotlin,2026-10-10,Synthetic sample; not real vacancies
+SAMPLE-0243,Data Software Engineer,Fictional Studio 09,Remote - US,Remote,Mid,,,USD,annual,AWS;Pandas;Python;SQL,2026-09-29,Synthetic sample; not real vacancies
+SAMPLE-0244,iOS Developer,Fictional Studio 14,"Boston, MA",On-site,Mid,114000.0,139000.0,USD,annual,Git;SQL;Swift,2026-09-04,Synthetic sample; not real vacancies
+SAMPLE-0245,iOS Developer,Fictional Studio 25,"Boston, MA",Hybrid,Senior,126000.0,155000.0,USD,annual,Git;Swift,2026-09-29,Synthetic sample; not real vacancies
+SAMPLE-0246,Frontend Developer,Fictional Studio 21,"Austin, TX",Remote,Senior,71.15,80.29,USD,hourly,CSS;Git;JavaScript;React;TypeScript,2026-09-21,Synthetic sample; not real vacancies
+SAMPLE-0247,Frontend Developer,Fictional Studio 21,"San Francisco, CA",Hybrid,Senior,149000.0,183000.0,USD,annual,AWS;CSS;JavaScript;React;TypeScript,2026-10-29,Synthetic sample; not real vacancies
+SAMPLE-0248,Data Software Engineer,Fictional Studio 17,"Washington, DC",Hybrid,Senior,11166.67,14166.67,USD,monthly,AWS;Pandas;Python;SQL,2026-10-15,Synthetic sample; not real vacancies
+SAMPLE-0249,Frontend Developer,Fictional Studio 19,"Rockville, MD",Hybrid,Senior,155000.0,195000.0,USD,annual,CSS;JavaScript;React;TypeScript,2026-10-21,Synthetic sample; not real vacancies
+SAMPLE-0250,Backend Developer,Fictional Studio 03,"Rockville, MD",Remote,Lead,176000.0,186000.0,USD,annual,Docker;FastAPI;Python;SQL,2026-10-06,Synthetic sample; not real vacancies
+SAMPLE-0251,Applications Developer,Fictional Studio 19,"Seattle, WA",Hybrid,Entry,67000.0,87000.0,USD,annual,.NET;Azure;C#;SQL,2026-10-20,Synthetic sample; not real vacancies
+SAMPLE-0252,Systems Developer,Fictional Studio 04,"Rockville, MD",Hybrid,Mid,105000.0,131000.0,USD,annual,C;C++;Git;Linux;Rust,2026-10-01,Synthetic sample; not real vacancies
+SAMPLE-0253,Mobile Developer,Fictional Studio 12,"Atlanta, GA",Remote,Senior,64.42,73.08,USD,hourly,Git;Java;Kotlin,2026-09-08,Synthetic sample; not real vacancies
+SAMPLE-0254,Backend Developer,Fictional Studio 18,"Atlanta, GA",Hybrid,Senior,,,USD,weekly,Docker;FastAPI;Python;SQL,2026-09-16,Synthetic sample; not real vacancies
+SAMPLE-0255,iOS Developer,Fictional Studio 07,"Washington, DC",Hybrid,Entry,70000.0,88000.0,USD,annual,Git;SQL;Swift,2026-10-12,Synthetic sample; not real vacancies
+SAMPLE-0256,Frontend Developer,Fictional Studio 23,"Austin, TX",On-site,Senior,127000.0,145000.0,USD,annual,CSS;Git;JavaScript;React;TypeScript,2026-10-18,Synthetic sample; not real vacancies
+SAMPLE-0257,Frontend Developer,Fictional Studio 09,Remote - US,Remote,Lead,178000.0,212000.0,USD,annual,CSS;JavaScript;React;TypeScript,2026-09-15,Synthetic sample; not real vacancies
+SAMPLE-0258,Systems Developer,Fictional Studio 19,"San Francisco, CA",Remote,Entry,73000.0,86000.0,USD,annual,C;C++;Linux;Rust,2026-10-30,Synthetic sample; not real vacancies
+SAMPLE-0259,Systems Developer,Fictional Studio 26,"Austin, TX",Hybrid,Entry,77000.0,116000.0,USD,annual,C;C++;Linux;Rust,2026-09-13,Synthetic sample; not real vacancies
+SAMPLE-0260,iOS Developer,Fictional Studio 02,"Boston, MA",Remote,Entry,41.83,56.25,USD,hourly,Git;Swift,2026-10-06,Synthetic sample; not real vacancies
+SAMPLE-0261,Full Stack Developer,Fictional Studio 30,"Rockville, MD",Remote,Mid,98000.0,136000.0,USD,annual,JavaScript;Node.js;SQL;TypeScript,2026-10-27,Synthetic sample; not real vacancies
+SAMPLE-0262,Mobile Developer,Fictional Studio 11,"Washington, DC",Remote,Entry,69000.0,91000.0,CAD,annual,Git;Java;Kotlin,2026-10-10,Synthetic sample; not real vacancies
+SAMPLE-0263,Data Software Engineer,Fictional Studio 06,"San Francisco, CA",On-site,Mid,90000.0,105000.0,USD,annual,AWS;Git;Pandas;Python;SQL,2026-10-28,Synthetic sample; not real vacancies
+SAMPLE-0264,Software Engineer,Fictional Studio 26,"Rockville, MD",On-site,Mid,113000.0,139000.0,USD,annual,Git;Java;SQL;Spring,2026-10-07,Synthetic sample; not real vacancies
+SAMPLE-0265,Systems Developer,Fictional Studio 16,Remote - US,Remote,Mid,,,USD,annual,C;C++;Linux;Rust,2026-09-15,Synthetic sample; not real vacancies
+SAMPLE-0266,Software Engineer,Fictional Studio 15,"San Francisco, CA",Hybrid,Mid,100000.0,126000.0,USD,annual,Git;Java;SQL;Spring,2026-10-14,Synthetic sample; not real vacancies
+SAMPLE-0267,Full Stack Developer,Fictional Studio 10,"New York, NY",On-site,Internship,28.85,47.6,USD,hourly,AWS;JavaScript;Node.js;SQL;TypeScript,2026-09-07,Synthetic sample; not real vacancies
+SAMPLE-0268,iOS Developer,Fictional Studio 18,"Washington, DC",Hybrid,Mid,99000.0,118000.0,USD,annual,Git;Swift,2026-10-09,Synthetic sample; not real vacancies
+SAMPLE-0269,iOS Developer,Fictional Studio 20,"San Francisco, CA",Hybrid,Entry,83000.0,104000.0,USD,annual,Docker;Git;Swift,2026-10-14,Synthetic sample; not real vacancies
+SAMPLE-0270,Full Stack Developer,Fictional Studio 25,"Austin, TX",On-site,Mid,119000.0,156000.0,USD,annual,AWS;JavaScript;Node.js;SQL;TypeScript,2026-09-15,Synthetic sample; not real vacancies
+SAMPLE-0271,Mobile Developer,Fictional Studio 28,"Washington, DC",Hybrid,Mid,95000.0,129000.0,USD,annual,Git;Java;Kotlin,2026-09-07,Synthetic sample; not real vacancies
+SAMPLE-0272,Data Software Engineer,Fictional Studio 26,"Atlanta, GA",On-site,Mid,112000.0,127000.0,USD,annual,AWS;Git;Pandas;Python;SQL,2026-09-20,Synthetic sample; not real vacancies
+SAMPLE-0273,Platform Engineer,Fictional Studio 17,"San Francisco, CA",Hybrid,Lead,166000.0,187000.0,USD,annual,Docker;Go;Kubernetes;Linux;Python,2026-09-17,Synthetic sample; not real vacancies
+SAMPLE-0274,Platform Engineer,Fictional Studio 27,"Rockville, MD",Remote,Mid,56.25,66.35,USD,hourly,AWS;Go;Kubernetes;Linux;Python,2026-09-14,Synthetic sample; not real vacancies
+SAMPLE-0275,Full Stack Developer,Fictional Studio 07,Remote - US,Remote,Senior,129000.0,169000.0,USD,annual,Docker;JavaScript;Node.js;SQL;TypeScript,2026-09-02,Synthetic sample; not real vacancies
+SAMPLE-0276,Software Engineer,Fictional Studio 14,"Atlanta, GA",Hybrid,Mid,,,USD,annual,Git;Java;SQL;Spring,2026-09-05,Synthetic sample; not real vacancies
+SAMPLE-0277,iOS Developer,Fictional Studio 17,"Austin, TX",Remote,Lead,3519.23,3865.38,USD,weekly,Git;Swift,2026-10-23,Synthetic sample; not real vacancies
+SAMPLE-0278,iOS Developer,Fictional Studio 20,"Boston, MA",On-site,Mid,118000.0,149000.0,USD,annual,Git;Swift,2026-10-27,Synthetic sample; not real vacancies
+SAMPLE-0279,Backend Developer,Fictional Studio 02,"Seattle, WA",Hybrid,Mid,94000.0,120000.0,USD,annual,Docker;FastAPI;Python;SQL,2026-09-08,Synthetic sample; not real vacancies
+SAMPLE-0280,Frontend Developer,Fictional Studio 27,"Boston, MA",On-site,Entry,74000.0,92000.0,USD,annual,CSS;JavaScript;React;TypeScript,2026-09-04,Synthetic sample; not real vacancies
+SAMPLE-0281,Systems Developer,Fictional Studio 13,"Austin, TX",On-site,Lead,79.81,95.67,USD,hourly,C;C++;Git;Linux;Rust,2026-09-14,Synthetic sample; not real vacancies
+SAMPLE-0282,Platform Engineer,Fictional Studio 09,Remote - US,Remote,Senior,155000.0,194000.0,USD,annual,Go;Kubernetes;Linux;Python;SQL,2026-10-17,Synthetic sample; not real vacancies
+SAMPLE-0283,Applications Developer,Fictional Studio 08,"Atlanta, GA",Hybrid,Internship,38000.0,50000.0,USD,annual,.NET;Azure;C#;Docker;SQL,2026-09-09,Synthetic sample; not real vacancies
+SAMPLE-0284,Backend Developer,Fictional Studio 17,"Austin, TX",On-site,Senior,148000.0,162000.0,USD,annual,Docker;FastAPI;Python;SQL,2026-10-09,Synthetic sample; not real vacancies
+SAMPLE-0285,Mobile Developer,Fictional Studio 05,"San Francisco, CA",Hybrid,Senior,127000.0,153000.0,USD,annual,Docker;Git;Java;Kotlin,2026-10-09,Synthetic sample; not real vacancies
+SAMPLE-0286,Applications Developer,Fictional Studio 21,"Chicago, IL",Hybrid,Mid,9000.0,11250.0,USD,monthly,.NET;Azure;C#;SQL,2026-10-17,Synthetic sample; not real vacancies
+SAMPLE-0287,Platform Engineer,Fictional Studio 29,"Austin, TX",Hybrid,Mid,,,USD,annual,Go;Kubernetes;Linux;Python,2026-10-11,Synthetic sample; not real vacancies
+SAMPLE-0288,Frontend Developer,Fictional Studio 19,"New York, NY",Hybrid,Mid,55.77,73.56,USD,hourly,CSS;JavaScript;React;TypeScript,2026-09-26,Synthetic sample; not real vacancies
+SAMPLE-0289,Applications Developer,Fictional Studio 01,Remote - US,Remote,Senior,132000.0,166000.0,USD,annual,.NET;Azure;C#;SQL,2026-10-13,Synthetic sample; not real vacancies
+SAMPLE-0290,Software Engineer,Fictional Studio 15,Remote - US,Remote,Mid,105000.0,129000.0,USD,annual,AWS;Git;Java;SQL;Spring,2026-10-08,Synthetic sample; not real vacancies
+SAMPLE-0291,Backend Developer,Fictional Studio 03,"Seattle, WA",Remote,Senior,139000.0,172000.0,CAD,annual,Docker;FastAPI;Git;Python;SQL,2026-09-21,Synthetic sample; not real vacancies
+SAMPLE-0292,Applications Developer,Fictional Studio 30,"San Francisco, CA",Remote,Mid,91000.0,117000.0,USD,annual,.NET;Azure;C#;SQL,2026-10-15,Synthetic sample; not real vacancies
+SAMPLE-0293,Systems Developer,Fictional Studio 21,Remote - US,Remote,Entry,90000.0,112000.0,USD,annual,C;C++;Linux;Rust,2026-10-30,Synthetic sample; not real vacancies
+SAMPLE-0294,iOS Developer,Fictional Studio 22,"Seattle, WA",Hybrid,Senior,153000.0,184000.0,USD,annual,AWS;Git;Swift,2026-10-30,Synthetic sample; not real vacancies
+SAMPLE-0295,Full Stack Developer,Fictional Studio 19,"Seattle, WA",Hybrid,Senior,68.27,74.52,USD,hourly,Docker;JavaScript;Node.js;SQL;TypeScript,2026-10-02,Synthetic sample; not real vacancies
+SAMPLE-0296,Frontend Developer,Fictional Studio 16,"Austin, TX",Hybrid,Senior,125000.0,140000.0,USD,annual,CSS;JavaScript;React;TypeScript,2026-10-19,Synthetic sample; not real vacancies
+SAMPLE-0297,Mobile Developer,Fictional Studio 13,"San Francisco, CA",Remote,Entry,85000.0,124000.0,USD,annual,AWS;Git;Java;Kotlin,2026-09-16,Synthetic sample; not real vacancies
+SAMPLE-0298,iOS Developer,Fictional Studio 13,"Chicago, IL",Hybrid,Entry,,,USD,annual,Git;Swift,2026-09-10,Synthetic sample; not real vacancies
+SAMPLE-0299,Applications Developer,Fictional Studio 20,"San Francisco, CA",Remote,Entry,74000.0,107000.0,USD,annual,.NET;Azure;C#;Git;SQL,2026-09-10,Synthetic sample; not real vacancies
+SAMPLE-0300,Platform Engineer,Fictional Studio 04,"Rockville, MD",Remote,Senior,2403.85,3115.38,USD,weekly,AWS;Go;Kubernetes;Linux;Python,2026-10-30,Synthetic sample; not real vacancies

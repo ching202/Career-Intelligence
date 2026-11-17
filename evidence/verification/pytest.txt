@@ -1,0 +1,17 @@
+........................................................................ [ 90%]
+........                                                                 [100%]
+- generated xml file: /workspace/scratch/9940352b67d5/Career-Intelligence/evidence/verification/junit.xml -
+================================ tests coverage ================================
+_______________ coverage: platform linux, python 3.12.14-final-0 _______________
+
+Name                               Stmts   Miss Branch BrPart  Cover   Missing
+------------------------------------------------------------------------------
+app.py                               149      1     28      1  98.9%   104
+career_intelligence/__init__.py        1      0      0      0 100.0%
+career_intelligence/analytics.py      78      0     26      1  99.0%   50->52
+career_intelligence/charts.py         15      0      0      0 100.0%
+career_intelligence/data.py          128      0     34      0 100.0%
+------------------------------------------------------------------------------
+TOTAL                                371      1     88      2  99.3%
+Coverage JSON written to file /workspace/scratch/9940352b67d5/Career-Intelligence/evidence/verification/coverage.json
+80 passed in 12.88s

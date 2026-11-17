@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.DS_Store
+.env
+.streamlit/secrets.toml
+data/private/
+evidence/local-runs/
+*.log
+*.bundle
+/evidence/git-history.txt
+/evidence/release_manifest.json
