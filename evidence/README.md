@@ -1,5 +1,7 @@
 # Actual build and verification evidence
 
+This page preserves the **November 9 initial-build record**. For subsequent Windows tests, source publication, and Week 7 changes, see [the Week 7 validation report](../docs/WEEK7_VALIDATION.md).
+
 The recorded automated verification ran at **2026-11-09T18:04:37.558164-05:00 (America/New_York)**. The raw record also retains UTC timestamps. This is execution evidence from the assistant's build environment, not a student work log or practicum-hour record.
 
 | Check | Actual result |

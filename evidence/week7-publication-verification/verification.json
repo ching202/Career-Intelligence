@@ -1,0 +1,71 @@
+{
+  "started_at_utc": "2026-11-17T23:46:55.710006+00:00",
+  "finished_at_utc": "2026-11-17T23:47:18.568876+00:00",
+  "execution": "Automated assistant build environment; not student practicum hours",
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "packages": {
+    "pandas": "2.2.3",
+    "numpy": "2.5.5",
+    "streamlit": "1.51.0",
+    "plotly": "6.3.1",
+    "pytest": "8.4.2",
+    "pytest-cov": "7.0.0"
+  },
+  "checks": [
+    {
+      "check": "dependency-check",
+      "command": [
+        "C:\\Users\\Ching\\Documents\\Codex\\2026-11-10\\weekly-practicum-developer-update-week-5\\work\\Career-Intelligence\\.venv\\Scripts\\python.exe",
+        "-m",
+        "pip",
+        "check"
+      ],
+      "exit_code": 0
+    },
+    {
+      "check": "pytest",
+      "command": [
+        "C:\\Users\\Ching\\Documents\\Codex\\2026-11-10\\weekly-practicum-developer-update-week-5\\work\\Career-Intelligence\\.venv\\Scripts\\python.exe",
+        "-m",
+        "pytest",
+        "-q",
+        "--cov=career_intelligence",
+        "--cov=app",
+        "--cov-report=term-missing",
+        "--cov-report=json:C:\\Users\\Ching\\Documents\\Codex\\2026-11-10\\weekly-practicum-developer-update-week-5\\work\\Career-Intelligence\\evidence\\week7-publication-verification\\coverage.json",
+        "--junitxml=C:\\Users\\Ching\\Documents\\Codex\\2026-11-10\\weekly-practicum-developer-update-week-5\\work\\Career-Intelligence\\evidence\\week7-publication-verification\\junit.xml"
+      ],
+      "exit_code": 0
+    }
+  ],
+  "test_counts": {
+    "tests": 83,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "sha256": {
+    ".github/workflows/tests.yml": "4e616c6e360ebee769d23412bc44e6b5fcaaa34cdf07020276e0f3b6e174f12c",
+    ".streamlit/config.toml": "d76f9f7c04225f576aafbd06f9e0ce6a118992dad3bd2034ead56ac5bdcaf023",
+    "app.py": "0ca8232c7dc949aee92298e75f0e762526ea2981920cdef53720cdb6c32630c7",
+    "career_intelligence/__init__.py": "0ad7257ddd882f806babded3f08c840e6cfaeda7ce9923f6adab0ae47838ce5a",
+    "career_intelligence/analytics.py": "42d441c1461ad431d5d31d440e14a6e20bbcb388610fa37bb7c4d037bfe1550c",
+    "career_intelligence/charts.py": "59ea1270bf74032e8cb07a61d9bf838ee2e1bbc425cbef772bc2a15de4ab5147",
+    "career_intelligence/data.py": "30a2b3bd9201ce97909db3e24d5729af03c81c81f7d0ebafc5db741d239811da",
+    "data/sample_jobs.csv": "76c7657799950995f623a75f1b166f1773ccd6de11bf6fab80af340a8f0a300d",
+    "pyproject.toml": "b6b7e7f35efdf6288d5b7f9037ff0e27a2ccc991e09f5da17fbcbe9d2a728425",
+    "requirements-dev.txt": "3aae94ade2721032359e004045b709418b51627ef7f3cf3ee28a58328144c6c5",
+    "requirements.txt": "b0c10d43515ec328aa5656406ba6f8a9f7cafc0e8e930636fd4f91be9490acbc",
+    "scripts/generate_sample_data.py": "20b9f731600bc1f491edf29cd97b3e61dc40d927e13566517052723b3f388f6e",
+    "scripts/package_project.py": "f7e61f897addf6745961beecb5bf6d2bd37d1c997845a5e77e7174e5ecf69525",
+    "scripts/verify.py": "bd82d8e545a66507082a54bdebab6ace4b52a6d75582474884dd56b70a2dee66",
+    "tests/conftest.py": "f71d7b234cc5b372be8aa216bd077597f8b032960e99fcff59e3b9110952531c",
+    "tests/fixtures/validation_cases.csv": "10452ee4dd02b2bc7115ee49d44072d202313e8a33ce96f561d860fff788ae67",
+    "tests/test_analytics.py": "2611952596be9163adf6941b9c9250e62a6f596af3fb065ae638bf8b00fbf903",
+    "tests/test_app.py": "9c3b4b445f3ae693bf6965b4c2a7ca6152501b0019e1fe159baea9812751dc46",
+    "tests/test_data.py": "ee9eb31819def142054abf5f048e78c5f997ea0f186ae7e94f5b4b4cd1deed54",
+    "tests/test_sample_generator.py": "a978cf2c63e80fe696ab21a4250883949f1c3f425bf833c6294503af2d8de53c",
+    "tests/test_validation_fixture.py": "8b6fd2002622bef239e488d43157a40f63f74ef0f9c7c6654843f33182678982"
+  }
+}
