@@ -10,6 +10,7 @@ Career Intelligence makes it easy to compare salary ranges, language mentions, a
 
 - Filters jobs by title/company, location, work arrangement, experience, languages, salary, and posting date.
 - Compares median annualized salary midpoints with an explicit sample size and salary coverage.
+- Shows salary coverage within each experience level and location, including location CSV exports.
 - Counts exact language/SQL mentions once per job; distinguishes Java from JavaScript and C from C++/C#.
 - Visualizes location counts, work arrangements, experience levels, salary distributions, and posting activity.
 - Imports UTF-8 CSVs, reports data-quality issues, and exports filtered records and summaries.
@@ -85,6 +86,8 @@ See the [data dictionary](docs/DATA_DICTIONARY.md), [methodology](docs/METHODOLO
 | `.github/workflows/tests.yml` | CI configuration for Python 3.11–3.13 |
 
 ## Practicum documentation
+
+The [Week 8 analytics report](docs/WEEK8_ANALYTICS.md) documents the grouped salary-coverage improvement and a seven-job synthetic example for salary annualization, exact skill counting, and filtered denominators.
 
 [The six-milestone plan](docs/MILESTONES.md) maps work to Weeks 6–11. These are organizational milestones, **not a claim that development happened over six weeks**. The initial implementation was prepared with an AI assistant in the recorded build session. Student dates, hours, personal contributions, reflections, and submission status remain blank until actually completed.
 

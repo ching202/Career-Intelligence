@@ -151,7 +151,11 @@ else:
             show_chart(horizontal_bar(grouped.dropna(subset=["median_salary"]), "experience_level", "median_salary",
                                       "Median annual midpoint (USD)", {"salary_count": True, "jobs": True}))
             st.dataframe(grouped, hide_index=True, use_container_width=True,
-                         column_config={"median_salary": st.column_config.NumberColumn("Median annual USD", format="$%.0f")})
+                         column_config={
+                             "median_salary": st.column_config.NumberColumn("Median annual USD", format="$%.0f"),
+                             "salary_coverage": st.column_config.NumberColumn("Salary coverage (%)", format="%.1f"),
+                         })
+            st.caption("Salary coverage is the share of jobs within each experience level that have usable USD pay ranges.")
         else:
             st.info("No usable USD salary ranges remain. Job counts and language/location analysis still work.")
         st.caption("Midpoints are advertised/example compensation, not actual earnings. Benefits, equity, bonuses, taxes, cost of living, and exchange rates are not modeled.")
@@ -172,7 +176,11 @@ else:
         by_location = grouped_summary(filtered, "location")
         show_chart(horizontal_bar(by_location.head(15), "location", "jobs", "Job records", {"salary_count": True}))
         st.dataframe(by_location, hide_index=True, use_container_width=True,
-                     column_config={"median_salary": st.column_config.NumberColumn("Median annual USD", format="$%.0f")})
+                     column_config={
+                         "median_salary": st.column_config.NumberColumn("Median annual USD", format="$%.0f"),
+                         "salary_coverage": st.column_config.NumberColumn("Salary coverage (%)", format="%.1f"),
+                     })
+        st.caption("Salary coverage is the share of jobs within each location that have usable USD pay ranges. Missing or unsupported salaries remain in the job count.")
         st.caption("Location labels are taken from the CSV. Remote is a work arrangement; a remote job can still have a geographic location or eligibility restriction.")
         st.download_button("Download location summary", safe_csv(by_location), "location_summary.csv", "text/csv")
     with explorer:

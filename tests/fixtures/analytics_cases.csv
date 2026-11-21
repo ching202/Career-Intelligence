@@ -1,0 +1,8 @@
+job_id,title,company,location,work_mode,experience_level,salary_min,salary_max,salary_currency,salary_period,skills,posted_date,data_source
+ANNUAL,Annual backend developer,Example A,"Seattle, WA",Remote,Entry,80000,100000,USD,annual,Java;SQL;Java,2026-11-16,Synthetic Week 8 analytics fixture
+MONTHLY,Monthly frontend developer,Example B,"Seattle, WA",Hybrid,Mid,8000,10000,USD,monthly,JavaScript;SQL,2026-11-17,Synthetic Week 8 analytics fixture
+HOURLY,Hourly full stack developer,Example C,"Portland, OR",Remote,Senior,50,60,USD,hourly,Python;JavaScript,2026-11-18,Synthetic Week 8 analytics fixture
+WEEKLY,Weekly systems developer,Example D,"Portland, OR",On-site,Mid,1500,2000,USD,weekly,C;C++;C#,2026-11-19,Synthetic Week 8 analytics fixture
+MISSING,Missing salary developer,Example E,"Seattle, WA",Remote,Entry,,,USD,annual,Python,2026-11-20,Synthetic Week 8 analytics fixture
+CAD,Canadian developer,Example F,"Toronto, ON",Remote,Senior,70000,90000,CAD,annual,JavaScript;Python,2026-11-20,Synthetic Week 8 analytics fixture
+NO-SKILLS,Unspecified skills developer,Example G,"Toronto, ON",On-site,Entry,90000,110000,USD,annual,,2026-11-20,Synthetic Week 8 analytics fixture

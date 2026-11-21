@@ -87,6 +87,8 @@ def grouped_summary(jobs: pd.DataFrame, group: str) -> pd.DataFrame:
         jobs=("job_id", "size"), salary_count=("salary_mid_usd", "count"),
         median_salary=("salary_mid_usd", "median"),
     ).reset_index()
+    # Each group's denominator includes its jobs without comparable USD salaries.
+    result["salary_coverage"] = 100 * result.salary_count / result.jobs
     return result.sort_values(["jobs", group], ascending=[False, True]).reset_index(drop=True)
 
 

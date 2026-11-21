@@ -16,6 +16,8 @@ Example: a fictional $40–$60/hour range has a $50/hour midpoint and $104,000 a
 
 **Salary coverage** = jobs with usable USD ranges / all filtered jobs × 100. Show this denominator alongside salary summaries. A group median based on one observation is still shown with its sample count; it is not a reliable market benchmark. Currency conversion, taxes, inflation, equity, and cost-of-living adjustment are out of scope.
 
+Grouped summaries also return `salary_coverage` as a number from 0 to 100: usable USD salary records **within that group** / all filtered jobs **within that group** × 100. The experience and location tables display this percentage, and the location CSV includes it. A group without usable pay has 0% coverage and a missing median, never a zero-dollar median. Applying filters recalculates the group denominators. See the [worked Week 8 examples](WEEK8_ANALYTICS.md).
+
 ## Skill frequency
 
 Split the explicit skills field on `;`, `|`, or `,`, trim spaces, and normalize known aliases. Count each canonical token once per job. Do not search title/description substrings: JavaScript must not count as Java; C++, C#, and C stay distinct.
