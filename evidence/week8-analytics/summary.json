@@ -1,0 +1,14 @@
+{
+  "recorded_at_utc": "2026-11-21T01:21:22.517187+00:00",
+  "execution": "AI-assisted automated verification; not student practicum hours",
+  "dataset": "Seven fictional job records; not labor-market evidence",
+  "fixture_sha256": "2defd1d007e775592c49e90d10e3b8d9fc56c04967b89c74f1a1a136706b5ac1",
+  "summary": {
+    "jobs": 7,
+    "median_salary": 100000.0,
+    "salary_count": 5,
+    "salary_coverage": 71.42857142857143,
+    "remote_share": 57.142857142857146,
+    "locations": 3
+  }
+}

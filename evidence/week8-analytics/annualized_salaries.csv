@@ -1,0 +1,8 @@
+﻿job_id,salary_period,salary_min,salary_max,annual_min_usd,annual_max_usd,salary_mid_usd,salary_status
+ANNUAL,annual,80000,100000,80000.0,100000.0,90000.0,Included (USD)
+MONTHLY,monthly,8000,10000,96000.0,120000.0,108000.0,Included (USD)
+HOURLY,hourly,50,60,104000.0,124800.0,114400.0,Included (USD)
+WEEKLY,weekly,1500,2000,78000.0,104000.0,91000.0,Included (USD)
+MISSING,annual,,,,,,Missing salary
+CAD,annual,70000,90000,,,,Unsupported currency
+NO-SKILLS,annual,90000,110000,90000.0,110000.0,100000.0,Included (USD)

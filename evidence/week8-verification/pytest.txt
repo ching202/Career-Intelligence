@@ -1,0 +1,17 @@
+........................................................................ [ 72%]
+............................                                             [100%]
+- generated xml file: C:\Users\Ching\Documents\Codex\2026-11-10\weekly-practicum-developer-update-week-5\work\Career-Intelligence-week8\evidence\week8-verification\junit.xml -
+=============================== tests coverage ================================
+______________ coverage: platform win32, python 3.12.14-final-0 _______________
+
+Name                               Stmts   Miss Branch BrPart  Cover   Missing
+------------------------------------------------------------------------------
+app.py                               151      1     28      1  98.9%   104
+career_intelligence\__init__.py        1      0      0      0 100.0%
+career_intelligence\analytics.py      79      0     26      1  99.0%   50->52
+career_intelligence\charts.py         15      0      0      0 100.0%
+career_intelligence\data.py          128      0     34      0 100.0%
+------------------------------------------------------------------------------
+TOTAL                                374      1     88      2  99.4%
+Coverage JSON written to file C:\Users\Ching\Documents\Codex\2026-11-10\weekly-practicum-developer-update-week-5\work\Career-Intelligence-week8\evidence\week8-verification\coverage.json
+100 passed in 24.44s
