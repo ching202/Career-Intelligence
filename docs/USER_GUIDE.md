@@ -16,6 +16,19 @@ Blank multiselects mean all values. Multiple selections in one filter match any 
 
 CSV downloads reflect the current filters. The quality report describes the whole loaded file. Exports retain the dataset's provenance label. No uploaded file is persisted by the application.
 
+## Saving a complete view
+
+After applying filters, use **Save this view > Download current view (ZIP)**. The archive contains:
+
+- `filtered_jobs.csv`: the displayed jobs, their original source labels, and annualized salary fields.
+- `language_demand.csv`: the current language/skill summary, using the scope selected in the Languages tab.
+- `location_summary.csv`: counts, salary medians, and salary coverage for the current locations.
+- `view_summary.json`: filter selections, displayed metrics, selected skill scope, export time, and the SHA-256 identifier of the input file.
+
+The archive includes only the selected records and their summaries. It does not include the original full input file. Keep that source separately if you want to recreate the view from its recorded filters. The ZIP is generated in memory; the app does not save it to the server. Its JSON is a record of settings, not a file that the app can import to restore filters automatically.
+
+Wait for the displayed metrics to update after changing a filter, then download. When there are no matching jobs, the ZIP contains CSV headers and a summary showing zero jobs. **Reset filters** restores the current dataset's full view. Uploading a different file also resets sidebar filters so old choices do not hide the new records.
+
 ## Troubleshooting
 
 | Symptom | What to do |

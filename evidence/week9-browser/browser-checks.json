@@ -1,0 +1,42 @@
+{
+  "checked_at_utc": "2026-11-25T03:07:54.151Z",
+  "method": "Computer Use in-app browser against local Streamlit server",
+  "source": "AI-assisted browser verification; not student work hours",
+  "checks": [
+    {
+      "scenario": "Default sample",
+      "result": "300 records rendered"
+    },
+    {
+      "scenario": "Actual upload of analytics_cases.csv",
+      "result": "7 records, $100,000 median, 71.4% coverage"
+    },
+    {
+      "scenario": "Seattle + Remote filters",
+      "result": "2 records, $90,000 median, 50.0% coverage, 100.0% remote"
+    },
+    {
+      "scenario": "Dashboard tabs",
+      "result": "All five tabs opened successfully"
+    },
+    {
+      "scenario": "Actual ZIP download",
+      "result": "Saved through browser control; extracted archive matched the two displayed records and filters"
+    },
+    {
+      "scenario": "Empty search and reset",
+      "result": "No-results message; Reset restored current dataset and visibly cleared query"
+    },
+    {
+      "scenario": "Replace uploaded CSV",
+      "before_fix": "Results reset to 5 records but old search text remained visible",
+      "after_fix": "5 records, 40.0% coverage, and an empty visible search field"
+    }
+  ],
+  "download_sha256": "29a3c2a84615f3dfe1669b9a89a6886fad3d1bb67d2633a5bed4f02e49b2993b",
+  "screenshots": [
+    "filtered-view.jpg",
+    "filtered-locations.jpg",
+    "replacement-reset.jpg"
+  ]
+}

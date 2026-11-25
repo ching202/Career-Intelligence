@@ -1,0 +1,3 @@
+﻿job_id,title,company,location,work_mode,experience_level,salary_min,salary_max,salary_currency,salary_period,skills,posted_date,data_source,annual_min_usd,annual_max_usd,salary_mid_usd,salary_status
+ANNUAL,Annual backend developer,Example A,"Seattle, WA",Remote,Entry,80000,100000,USD,annual,Java;SQL,2026-11-16,Synthetic Week 8 analytics fixture,80000.0,100000.0,90000.0,Included (USD)
+MISSING,Missing salary developer,Example E,"Seattle, WA",Remote,Entry,,,USD,annual,Python,2026-11-20,Synthetic Week 8 analytics fixture,,,,Missing salary
