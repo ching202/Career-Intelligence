@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "exported_at_utc": "2026-11-25T03:03:47.343725+00:00",
+  "dataset_sha256": "2defd1d007e775592c49e90d10e3b8d9fc56c04967b89c74f1a1a136706b5ac1",
+  "validated_jobs": 7,
+  "filters": {
+    "query": "",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "work_modes": [
+      "Remote"
+    ],
+    "levels": [],
+    "languages": [],
+    "match_all": false,
+    "min_salary": 0,
+    "include_missing_salary": true,
+    "date_start": null,
+    "date_end": null,
+    "include_undated": true
+  },
+  "language_scope": "Languages and SQL",
+  "summary": {
+    "jobs": 2,
+    "median_salary": 90000.0,
+    "salary_count": 1,
+    "salary_coverage": 50.0,
+    "remote_share": 100.0,
+    "locations": 1
+  },
+  "notes": [
+    "CSV files describe the displayed filtered view, not the whole input file.",
+    "The source SHA-256 identifies the loaded file; that original file is not included.",
+    "Salaries use comparable USD range midpoints; missing pay is not zero.",
+    "The original data_source label is retained in filtered_jobs.csv.",
+    "CSV text beginning with spreadsheet formula prefixes is escaped."
+  ]
+}

@@ -13,15 +13,26 @@ from career_intelligence.analytics import (
 )
 from career_intelligence.charts import PALETTE, horizontal_bar, salary_histogram, style
 from career_intelligence.data import DataValidationError, LANGUAGES, REQUIRED_COLUMNS, load_csv
+from career_intelligence.exports import export_view_bundle
 
 ROOT = Path(__file__).resolve().parent
 st.set_page_config(page_title="Career Intelligence", page_icon="📊", layout="wide")
 
 
 def reset_filters():
+    defaults = {
+        "filter_query": "", "filter_locations": [], "filter_modes": [], "filter_levels": [],
+        "filter_languages": [], "filter_match": "Any selected", "filter_salary": 0,
+        "filter_missing": True, "filter_use_date": False, "filter_undated": True,
+    }
     for key in list(st.session_state):
         if key.startswith("filter_"):
-            del st.session_state[key]
+            # Explicit assignments send reset values to existing browser widgets.
+            # Deleting their keys alone can leave stale text/selections visible.
+            if key in defaults:
+                st.session_state[key] = defaults[key]
+            else:
+                del st.session_state[key]
 
 
 def show_chart(figure):
@@ -86,7 +97,8 @@ with st.sidebar:
     match = st.radio("Language matching", ["Any selected", "All selected"], horizontal=True, key="filter_match")
     minimum = st.number_input("Minimum annual midpoint (USD)", min_value=0, max_value=10000000,
                               step=5000, key="filter_salary")
-    include_missing = st.checkbox("Include jobs without usable USD salaries", value=True, key="filter_missing")
+    st.session_state.setdefault("filter_missing", True)
+    include_missing = st.checkbox("Include jobs without usable USD salaries", key="filter_missing")
     st.caption("When checked, jobs without comparable pay remain visible even with a minimum salary set.")
     date_start = date_end = None
     include_undated = True
@@ -102,14 +114,16 @@ with st.sidebar:
                 date_start, date_end = selected_dates
             else:
                 st.caption("Select both dates to apply the range.")
-            include_undated = st.checkbox("Include jobs without dates", value=True, key="filter_undated")
+            st.session_state.setdefault("filter_undated", True)
+            include_undated = st.checkbox("Include jobs without dates", key="filter_undated")
 
-filtered = filter_jobs(jobs, Filters(
+filters = Filters(
     query=query, locations=tuple(locations), work_modes=tuple(modes), levels=tuple(levels),
     languages=tuple(languages), match_all=match == "All selected", min_salary=minimum,
     include_missing_salary=include_missing, date_start=date_start, date_end=date_end,
     include_undated=include_undated,
-))
+)
+filtered = filter_jobs(jobs, filters)
 metrics = summary(filtered)
 st.caption(f"Showing {len(filtered):,} of {len(jobs):,} validated job records · All charts follow the sidebar filters")
 cols = st.columns(4)
@@ -190,7 +204,17 @@ else:
         st.dataframe(visible, hide_index=True, use_container_width=True,
                      column_config={"salary_mid_usd": st.column_config.NumberColumn("Annual midpoint USD", format="$%.0f")})
 
+st.subheader("Save this view")
 st.download_button("Download filtered jobs", export_jobs(filtered), "career_intelligence_filtered.csv", "text/csv", type="primary")
+st.download_button(
+    "Download current view (ZIP)",
+    export_view_bundle(
+        filtered, filters, dataset_sha256=fingerprint, validated_jobs=len(jobs),
+        languages_only=st.session_state.get("demand_scope", "Languages and SQL") == "Languages and SQL",
+    ),
+    "career_intelligence_view.zip", "application/zip", key="download_view", on_click="ignore",
+)
+st.caption("The ZIP includes filtered jobs, language and location summaries, and the filters and metrics for this view. Apply filter changes before downloading.")
 with st.expander("Data quality & calculation notes"):
     st.write(f"Input: {dataset.input_rows:,} rows · Retained: {len(jobs):,} · Dropped: {dataset.dropped_rows:,}")
     st.caption("Quality notes cover the full loaded file. A row can have several notes. Missing or invalid salaries stay in job counts but are excluded from salary statistics.")
